@@ -5,7 +5,7 @@ pages:
     - User profile: user_profile.md
     - Dashboards and widgets: dashboards_and_widgets.md
     - Projects: projects.md
-    - Test runs and session: test_runs_and_session.md
+    - Test runs and sessions: test_runs_and_sessions.md
     - User management: user_management.md
     - Integrations: integrations.md
 theme:
