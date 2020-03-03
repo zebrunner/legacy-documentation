@@ -1,0 +1,17 @@
+site_name: Zebrunner
+pages:
+    - What is Zebrunner?: index.md
+    - Getting started: getting_started.md
+    - User profile: user_profile.md
+    - Dashboards and widgets: dashboards_and_widgets.md
+    - Projects: projects.md
+    - Test runs and session: test_runs_and_session.md
+    - User management: user_management.md
+    - Integrations: integrations.md
+theme:
+  name: 'material'
+  palette:
+    primary: 'green'
+    accent: 'green'
+repo_url: https://github.com/zebrunner/zebrunner
+repo_name: Zebrunner
