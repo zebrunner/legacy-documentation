@@ -61,7 +61,7 @@ To invite a user, perform the following steps:
 
 Invitations will be sent to the specified emails. Users need to accept the invitation, after that you will see the **ACCEPTED** status in front of the user name. Otherwise, the **PENDING** status will be displayed.
 
-### Managing invitations
+### Manage invitations
 Invitation status **ACCEPTED**: If you click on the invitation’s menu and select “Profile”, you will be redirected to the Users page.
 
 Invitation status **PENDING**: By clicking on the invitation’s menu, you can:
