@@ -16,6 +16,6 @@ The User Account & Profile page contains several elements:
 
 **Change password**: To change a password, enter your current password, then enter a new one. A password must contain from 5 to 50 characters which can be letters, numbers, special characters.
 
-## Logout: 
+## Logout
 To log out, go to the side menu and click the profile icon in the lower-left corner of the window.
 Click the **“Log out”** button at the bottom of the menu.
