@@ -1,22 +1,22 @@
 # Dashboards
 
-## Work with dashboards
 Dashboard in Zebrunner is a special page that displays widgets with main analytical info on your test results.
 
-A system General dashboard is displayed when you open Zebrunner (or press the “Z” button in the upper-left corner of the window). General is not editable – you cannot change its name or make it hidden.
+A system General dashboard is displayed when you open Zebrunner (or press the **“Z”** button in the upper-left corner of the window). General is not editable – you cannot change its name or make it hidden.
 
 In addition to General, you can create other dashboards to systemize widgets according to your needs.
 
-What can you do with dashboards?
-* Create Dashboard
-* Edit Dashboard
-* Hidden Dashboards
-* Delete Dashboard
-* Send Dashboard via email
-* Search for Dashboard by its name
+**What can you do with dashboards?**
+
+* Create Dashboards
+* Edit Dashboards
+* Make Dashboards Hidden
+* Delete Dashboards
+* Send Dashboards via email
+* Search for Dashboards by name
 * Change order of dashboards
 
-### Create dashboard
+## Create dashboard
 To create a new dashboard, perform the following steps:
 
 1. Navigate to the side menu and click the **“Dashboards”** icon. Then press the **“+Add dashboard"** button.
@@ -26,7 +26,7 @@ To create a new dashboard, perform the following steps:
 
 Now you can add widgets to the new dashboard.
 
-### Edit dashboard
+## Edit dashboard
 To edit a dashboard, perform the following steps:
 
 1. Navigate to the side menu and click the **“Dashboards”** icon. Choose the necessary dashboard.
@@ -34,7 +34,7 @@ To edit a dashboard, perform the following steps:
 3. The **“Edit Dashboard”** popup will appear.
 4. Make the necessary changes to the dashboard (except for General):
    * edit the name of the dashboard;
-   * make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have “View hidden dashboards” permission).
+   * make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have the **“View hidden dashboards”** permission).
 5. Click the **“Save”** button.
 
 The dashboard will be displayed with updates.
@@ -43,9 +43,9 @@ The dashboard will be displayed with updates.
 
 For example, you want to see your test results on a dashboard for the Chrome browser only.
 
-For this perform the following steps:
+For this, perform the following steps:
 
-1. After the **“Edit Dashboard”** popup appears, enter the parameter **“BROWSER”** (in uppercase) to the **“Key”** field and “chrome” to the **“Value”** field (in lowercase).
+1. After the **“Edit Dashboard”** popup appears, enter the parameter **“BROWSER”** (in uppercase) to the **“Key”** field and **“chrome”** to the **“Value”** field (in lowercase).
 2. Click **“Add”** and **“Save”**.
 3. Refresh the page.
 
@@ -53,7 +53,7 @@ The dashboard will be displayed with updated results.
 
 **Note:** You can apply several parameters to a dashboard. But you can add only 1 value to a parameter.
 
-### Hidden dashboards
+## Hidden dashboards
 Dashboards in Zebrunner can be visible or hidden.
 
 Hidden dashboards are useful when:
@@ -62,26 +62,26 @@ Hidden dashboards are useful when:
 * You want to track your automation team performance on a special dashboard;
 * You’d like to hide a dashboard from other users.
 
-**Note:** You need “View hidden dashboards” permission to make a dashboard hidden. Otherwise, you will not see this option.
+**Note:** You need the **“View hidden dashboards”** permission to make a dashboard hidden. Otherwise, you will not see this option.
 
 To make a dashboard hidden, open **“New dashboard”** or **“Edit dashboard”** popup and turn on the switch **“Hidden”**.
 
-### Delete dashboard
-To delete a custom dashboard, perform the following steps:
+## Delete dashboard
+To delete a dashboard, perform the following steps:
 
-1. Navigate to the side menu and click the “Dashboards” icon. Choose the necessary dashboard.
+1. Navigate to the side menu and click the **“Dashboards”** icon. Choose the necessary dashboard.
 2. Click the pencil icon in the upper-right corner of the window.
-3. The “Edit Dashboard” popup will appear.
-4. Press the “Delete” button.
+3. The **“Edit Dashboard”** popup will appear.
+4. Press **“Delete”.**
 
 The dashboard and attached widgets will be deleted.
 
 **Note:** You cannot delete the General dashboard.
 
-### Send dashboard via email
+## Send dashboard via email
 To send a dashboard via email, perform the following steps:
 
-1. Navigate to the side menu and click the “Dashboards” icon. Choose the necessary dashboard.
+1. Navigate to the side menu and click the **“Dashboards”** icon. Choose the necessary dashboard.
 2. Click the arrow icon in the upper-right corner of the window.
 3. The **“Email”** popup will appear.
 4. The **“Name”** and **“Text”** fields are filled by default, still you can change them.
@@ -90,14 +90,14 @@ To send a dashboard via email, perform the following steps:
 
 A popup message **“Email was successfully sent”** will appear in the lower-right corner of the window.
 
-### Search for dashboard
+## Search for dashboard
 To search for a dashboard, perform the following steps:
 
-1. Navigate to the side menu and click the “Dashboards” icon.
-2. Go to the “Search” field and enter the name/part of the name of a dashboard.
+1. Navigate to the side menu and click the **“Dashboards”** icon.
+2. Go to the **“Search”** field and enter the name/part of the name of a dashboard.
 3. Choose the necessary dashboard.
 
-### Change the order of dashboards
+## Change the order of dashboards
 To change the order of dashboards, perform the following steps:
 
 1. Navigate to the side menu and click the **“Dashboards”** icon.
