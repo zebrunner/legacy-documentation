@@ -18,8 +18,8 @@ nav:
     - Integrations: guide/integrations.md`
 theme:
   name: 'material'
-  favicon: assets/images/favicon.png
-  logo: assets/images/logo.svg
+  favicon: 'assets/images/favicon.ico'
+  logo: 'assets/images/logo.svg'
   feature:
     tabs: true
   palette:
