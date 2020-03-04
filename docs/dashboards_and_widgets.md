@@ -3,19 +3,18 @@
 ## Work with dashboards
 Dashboard in Zebrunner is a special page that displays widgets with main analytical info on your test results.
 
-A system General dashboard is displayed when you open Zebrunner (or press the “Z” button in the upper-left corner of the window). General is not editable – you cannot change its name or make it hidden.
+A system General dashboard is displayed when you open Zebrunner (or press the **“Z”** button in the upper-left corner of the window). General is not editable – you cannot change its name or make it hidden.
 
 In addition to General, you can create other dashboards to systemize widgets according to your needs.
 
 **What can you do with dashboards?**
 
-* [Create Dashboard](### Create dashboard)
-* Create Dashboard 
-* Edit Dashboard
-* Hidden Dashboards
-* Delete Dashboard
-* Send Dashboard via email
-* Search for Dashboard by its name
+* Create Dashboards
+* Edit Dashboards
+* Make Dashboards Hidden
+* Delete Dashboards
+* Send Dashboards via email
+* Search for Dashboards by name
 * Change order of dashboards
 
 ### Create dashboard
@@ -36,7 +35,7 @@ To edit a dashboard, perform the following steps:
 3. The **“Edit Dashboard”** popup will appear.
 4. Make the necessary changes to the dashboard (except for General):
    * edit the name of the dashboard;
-   * make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have “View hidden dashboards” permission).
+   * make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have the **“View hidden dashboards”** permission).
 5. Click the **“Save”** button.
 
 The dashboard will be displayed with updates.
@@ -45,9 +44,9 @@ The dashboard will be displayed with updates.
 
 For example, you want to see your test results on a dashboard for the Chrome browser only.
 
-For this perform the following steps:
+For this, perform the following steps:
 
-1. After the **“Edit Dashboard”** popup appears, enter the parameter **“BROWSER”** (in uppercase) to the **“Key”** field and “chrome” to the **“Value”** field (in lowercase).
+1. After the **“Edit Dashboard”** popup appears, enter the parameter **“BROWSER”** (in uppercase) to the **“Key”** field and **“chrome”** to the **“Value”** field (in lowercase).
 2. Click **“Add”** and **“Save”**.
 3. Refresh the page.
 
@@ -64,17 +63,17 @@ Hidden dashboards are useful when:
 * You want to track your automation team performance on a special dashboard;
 * You’d like to hide a dashboard from other users.
 
-**Note:** You need “View hidden dashboards” permission to make a dashboard hidden. Otherwise, you will not see this option.
+**Note:** You need the **“View hidden dashboards”** permission to make a dashboard hidden. Otherwise, you will not see this option.
 
 To make a dashboard hidden, open **“New dashboard”** or **“Edit dashboard”** popup and turn on the switch **“Hidden”**.
 
 ### Delete dashboard
-To delete a custom dashboard, perform the following steps:
+To delete a dashboard, perform the following steps:
 
-1. Navigate to the side menu and click the “Dashboards” icon. Choose the necessary dashboard.
+1. Navigate to the side menu and click the **“Dashboards”** icon. Choose the necessary dashboard.
 2. Click the pencil icon in the upper-right corner of the window.
-3. The “Edit Dashboard” popup will appear.
-4. Press the “Delete” button.
+3. The **“Edit Dashboard”** popup will appear.
+4. Press **“Delete”.**
 
 The dashboard and attached widgets will be deleted.
 
@@ -83,7 +82,7 @@ The dashboard and attached widgets will be deleted.
 ### Send dashboard via email
 To send a dashboard via email, perform the following steps:
 
-1. Navigate to the side menu and click the “Dashboards” icon. Choose the necessary dashboard.
+1. Navigate to the side menu and click the **“Dashboards”** icon. Choose the necessary dashboard.
 2. Click the arrow icon in the upper-right corner of the window.
 3. The **“Email”** popup will appear.
 4. The **“Name”** and **“Text”** fields are filled by default, still you can change them.
@@ -95,8 +94,8 @@ A popup message **“Email was successfully sent”** will appear in the lower-r
 ### Search for dashboard
 To search for a dashboard, perform the following steps:
 
-1. Navigate to the side menu and click the “Dashboards” icon.
-2. Go to the “Search” field and enter the name/part of the name of a dashboard.
+1. Navigate to the side menu and click the **“Dashboards”** icon.
+2. Go to the **“Search”** field and enter the name/part of the name of a dashboard.
 3. Choose the necessary dashboard.
 
 ### Change the order of dashboards
@@ -115,18 +114,18 @@ Widgets contain special graphical control elements that analyze and display your
 
 You can perform all actions with widgets listed below on the **"Dashboards"** page.
 
-* Create widget
-* Edit widget
-* Delete widget
-* Change widget placement or resize widget
-* Send widget via email
+* Create widgets
+* Edit widgets
+* Delete widgets
+* Change widget placement or resize widgets
+* Send widgets via email
 
 ### Create widget
 To create a new widget, perform the following steps:
 
 1. Click the **"+ NEW WIDGET"** button in the top-right corner of the **“Dashboards”** page.
 2. The **Widget wizard** will be opened.
-3. Choose a template for a widget (see them here) or go to the **“Choose from existing widgets”** section with a set of predefined widgets (look through them here). To simplify the process, fill in the search field with a name or part of a widget name.
+3. Choose a template for a widget or go to the **“Choose from existing widgets”** section with a set of predefined widgets. To simplify the process, fill in the search field with a name or part of a widget name.
 4. Click on a widget to see its preview.
 5. If you’ve chosen a template for a widget:
   * Click the **“Next”** button.
@@ -166,7 +165,8 @@ To send a widget via email, perform the following steps:
 4.	The **“Name”** and **“Text”** fields will be filled by default, still you can change them.
 5.	Fill in the **“Recipients”** field (unlimited number of emails per time).
 6.	Press the **“Send”** button.
-7.	Pop-up message **“Email was successfully sent”** will appear in the lower-right corner of the window.
+
+A pop-up message **“Email was successfully sent”** will appear in the lower-right corner of the window.
 
 ### Change widget placement or resize widget
 To change a widget placement within a dashboard area, perform the following steps:
@@ -176,9 +176,7 @@ To change a widget placement within a dashboard area, perform the following step
 3.	When you move the widget to the area with enough space, the system marks this place with a dotted line.
 4.	Press the **“Apply”** button.
  
-Every widget has a basic size.
-
-To resize a widget, perform the following steps:
+Every widget has a basic size. To resize a widget, perform the following steps:
 
 1.	Press the **“Widget placement”** button in the upper-right corner of the window.
 2.	Hover the mouse cursor over the widget. The system will show resizing arrows.
