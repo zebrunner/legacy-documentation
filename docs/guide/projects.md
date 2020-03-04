@@ -27,8 +27,8 @@ To delete a project, perform the following steps:
  
 The project will be removed.
 
-## Change logo of your company
-To change the logo of your company (this icon opens the **“Projects”** tab), perform the following steps:
+## Change company logo
+To change your company logo (this icon opens the **“Projects”** tab), perform the following steps:
 
 1. Navigate to the side menu and click the icon of your company at the top of the menu.
 2. Click **“+Upload new logo”** at the bottom of the menu.
