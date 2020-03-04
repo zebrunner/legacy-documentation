@@ -66,7 +66,6 @@ Invitation status **ACCEPTED**: If you click on the invitation’s menu and sele
 
 Invitation status **PENDING**: By clicking on the invitation’s menu, you can:
 
-* Copy the link and share it with the user.
-* Resend the invitation.
+* Copy the link and share it with the user
+* Resend the invitation
 * Revoke the invitation - the invited user will not be able to use this link anymore.
-
