@@ -36,6 +36,7 @@ To edit a dashboard, perform the following steps:
 
    * edit the name of the dashboard;
    * make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have the **“View hidden dashboards”** permission).
+   
 5. Click the **“Save”** button.
 
 The dashboard will be displayed with updates.
