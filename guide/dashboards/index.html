@@ -47,7 +47,7 @@
       
         
         
-        <meta name="theme-color" content="">
+        <meta name="theme-color" content="#4caf50">
       
     
     
@@ -67,7 +67,7 @@
   
     
     
-    <body dir="ltr" data-md-color-primary="#21ca88" data-md-color-accent="#21ca88">
+    <body dir="ltr" data-md-color-primary="green" data-md-color-accent="green">
   
     <svg class="md-svg">
       <defs>
@@ -194,6 +194,43 @@
         
       
       
+        
+
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../.." title="Overview" class="md-tabs__link">
+        Overview
+      </a>
+    
+  </li>
+
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../user_profile/" title="User guide" class="md-tabs__link md-tabs__link--active">
+          User guide
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
       <main class="md-main">
         <div class="md-main__inner md-grid" data-md-component="container">
           
@@ -263,10 +300,12 @@
       
       
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
     
     <label class="md-nav__link" for="nav-3">
       User guide
@@ -284,7 +323,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../user_profile.md" title="User profile" class="md-nav__link">
+    <a href="../user_profile/" title="User profile" class="md-nav__link">
       User profile
     </a>
   </li>
@@ -294,11 +333,104 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../../dashboards.md" title="Dashboards" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Dashboards
+      </label>
+    
+    <a href="./" title="Dashboards" class="md-nav__link md-nav__link--active">
       Dashboards
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#work-with-dashboards" title="Work with dashboards" class="md-nav__link">
+    Work with dashboards
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#create-dashboard" title="Create dashboard" class="md-nav__link">
+    Create dashboard
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#edit-dashboard" title="Edit dashboard" class="md-nav__link">
+    Edit dashboard
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hidden-dashboards" title="Hidden dashboards" class="md-nav__link">
+    Hidden dashboards
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#delete-dashboard" title="Delete dashboard" class="md-nav__link">
+    Delete dashboard
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#send-dashboard-via-email" title="Send dashboard via email" class="md-nav__link">
+    Send dashboard via email
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#search-for-dashboard" title="Search for dashboard" class="md-nav__link">
+    Search for dashboard
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#change-the-order-of-dashboards" title="Change the order of dashboards" class="md-nav__link">
+    Change the order of dashboards
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
         
@@ -308,7 +440,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../widgets.md" title="Widgets" class="md-nav__link">
+    <a href="../widgets/" title="Widgets" class="md-nav__link">
       Widgets
     </a>
   </li>
@@ -320,7 +452,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../projects.md" title="Projects" class="md-nav__link">
+    <a href="../projects/" title="Projects" class="md-nav__link">
       Projects
     </a>
   </li>
@@ -332,7 +464,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../test_runs_and_sessions.md" title="Test runs and sessions" class="md-nav__link">
+    <a href="../test_runs_and_sessions/" title="Test runs and sessions" class="md-nav__link">
       Test runs and sessions
     </a>
   </li>
@@ -344,7 +476,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../user_management.md" title="User management" class="md-nav__link">
+    <a href="../user_management/" title="User management" class="md-nav__link">
       User management
     </a>
   </li>
@@ -356,7 +488,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../integrations.md`" title="Integrations" class="md-nav__link">
+    <a href="../../iguide/ntegrations.md`" title="Integrations" class="md-nav__link">
       Integrations
     </a>
   </li>
@@ -574,6 +706,41 @@
       
         
 <footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../user_profile/" title="User profile" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                User profile
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../widgets/" title="Widgets" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Widgets
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
