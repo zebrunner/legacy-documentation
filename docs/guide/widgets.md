@@ -58,13 +58,15 @@ To send a widget via email, perform the following steps:
 
 A pop-up message **“Email was successfully sent”** will appear in the lower-right corner of the window.
 
-## Change widget placement or resize widget
+## Change widget placement 
 To change a widget placement within a dashboard area, perform the following steps:
 
 1.	Press the **“Widget placement”** button in the upper-right corner of the window.
 2.	Drag and drop a widget to the selected position.
 3.	When you move the widget to the area with enough space, the system marks this place with a dotted line.
 4.	Press the **“Apply”** button.
+
+## Resize widget
  
 Every widget has a basic size. To resize a widget, perform the following steps:
 
