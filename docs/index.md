@@ -1,6 +1,6 @@
-
-
 # What is Zebrunner?
+
+## Zebrunner Overview
 
 Zebrunner is a test automation management tool that provides full transparency of your test results within multiple environments and platforms. 
 
@@ -21,7 +21,7 @@ We offer premium reporting features for your tests. See test results in real tim
 
 Your data and users will be safe with our enterprise-grade security and centralized administration. Due to the flexible permission management, you can limit access to certain information and keep the workflow steady.
 
-# What you can do with Zebrunner?
+## What you can do with Zebrunner?
 
 **Execute large amounts of tests in parallel and pay less** - reduce regression time without loss of effective coverage and save money with our by-minute pricing.
 
