@@ -7,16 +7,18 @@ nav:
   - Overview: index.md
   - Getting started: getting_started.md
   - User guide:
-    - User profile: user_profile.md
-    - Dashboards: dashboards.md
-    - Widgets: widgets.md
-    - Projects: projects.md
-    - Test runs and sessions: test_runs_and_sessions.md
-    - User management: user_management.md
-    - Integrations: integrations.md`
+    - User profile: guide/user_profile.md
+    - Dashboards: guide/dashboards.md
+    - Widgets: guide/widgets.md
+    - Projects: guide/projects.md
+    - Test runs and sessions: guide/test_runs_and_sessions.md
+    - User management: guide/user_management.md
+    - Integrations: iguide/ntegrations.md`
 theme:
   name: 'material'
   favicon: assets/images/favicon.png
+  feature:
+    tabs: true
   palette:
-    primary: '#21ca88'
-    accent: '#21ca88'
+    primary: 'green'
+    accent: 'green'
