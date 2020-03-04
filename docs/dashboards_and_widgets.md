@@ -28,6 +28,7 @@ Now you can add widgets to the new dashboard.
 
 ### Edit dashboard
 To edit a dashboard, perform the following steps:
+
 1. Navigate to the side menu and click the **“Dashboards”** icon. Choose the necessary dashboard.
 2. Click the pencil icon in the upper-right corner of the window.
 3. The **“Edit Dashboard”** popup will appear.
@@ -43,6 +44,7 @@ The dashboard will be displayed with updates.
 For example, you want to see your test results on a dashboard for the Chrome browser only.
 
 For this perform the following steps:
+
 1. After the **“Edit Dashboard”** popup appears, enter the parameter **“BROWSER”** (in uppercase) to the **“Key”** field and “chrome” to the **“Value”** field (in lowercase).
 2. Click **“Add”** and **“Save”**.
 3. Refresh the page.
@@ -55,6 +57,7 @@ The dashboard will be displayed with updated results.
 Dashboards in Zebrunner can be visible or hidden.
 
 Hidden dashboards are useful when:
+
 * You need to test and adjust experimental widgets to dashboards;
 * You want to track your automation team performance on a special dashboard;
 * You’d like to hide a dashboard from other users.
@@ -65,6 +68,7 @@ To make a dashboard hidden, open **“New dashboard”** or **“Edit dashboard�
 
 ### Delete dashboard
 To delete a custom dashboard, perform the following steps:
+
 1. Navigate to the side menu and click the “Dashboards” icon. Choose the necessary dashboard.
 2. Click the pencil icon in the upper-right corner of the window.
 3. The “Edit Dashboard” popup will appear.
@@ -76,6 +80,7 @@ The dashboard and attached widgets will be deleted.
 
 ### Send dashboard via email
 To send a dashboard via email, perform the following steps:
+
 1. Navigate to the side menu and click the “Dashboards” icon. Choose the necessary dashboard.
 2. Click the arrow icon in the upper-right corner of the window.
 3. The **“Email”** popup will appear.
@@ -87,12 +92,14 @@ A popup message **“Email was successfully sent”** will appear in the lower-r
 
 ### Search for dashboard
 To search for a dashboard, perform the following steps:
+
 1. Navigate to the side menu and click the “Dashboards” icon.
 2. Go to the “Search” field and enter the name/part of the name of a dashboard.
 3. Choose the necessary dashboard.
 
 ### Change the order of dashboards
 To change the order of dashboards, perform the following steps:
+
 1. Navigate to the side menu and click the **“Dashboards”** icon.
 2. Grab a dashboard with a hand cursor by clicking the six-dot button.
 3. Drag and drop the chosen dashboard to the necessary place.
