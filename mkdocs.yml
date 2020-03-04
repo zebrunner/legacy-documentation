@@ -15,7 +15,7 @@ nav:
     - Projects: guide/projects.md
     - Test runs and sessions: guide/test_runs_and_sessions.md
     - User management: guide/user_management.md
-    - Integrations: guide/ntegrations.md`
+    - Integrations: guide/integrations.md`
 theme:
   name: 'material'
   favicon: assets/images/favicon.png
