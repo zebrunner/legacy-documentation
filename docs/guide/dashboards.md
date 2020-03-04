@@ -21,7 +21,7 @@ To create a new dashboard, perform the following steps:
 
 1. Navigate to the side menu and click the **“Dashboards”** icon. Then press the **“+Add dashboard"** button.
 2. The **“New Dashboard”** popup will appear.
-3. Enter a name for a new dashboard.
+3. Enter a name of a new dashboard.
 4. Click the **"Create"** button.
 
 Now you can add widgets to the new dashboard.
