@@ -9,7 +9,8 @@ In addition to General, you can create other dashboards to systemize widgets acc
 
 **What can you do with dashboards?**
 
-* Create Dashboard
+* [Create Dashboard](### Create dashboard)
+* Create Dashboard 
 * Edit Dashboard
 * Hidden Dashboards
 * Delete Dashboard
