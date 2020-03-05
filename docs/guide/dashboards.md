@@ -43,17 +43,19 @@ The dashboard will be displayed with updates.
 
 **Optional:** If you have **“Modify widgets”** and **“Modify dashboards”** permissions, you can edit a dashboard by applying a certain parameter to all the widgets on a dashboard (instead of setting it for each widget manually).
 
-For example, you want to see your test results on a dashboard for the Chrome browser only.
+For example, you want to see your test results on a dashboard for the API platform only.
 
 For this, perform the following steps:
 
-1. After the **“Edit Dashboard”** popup appears, enter the parameter **“BROWSER”** (in uppercase) to the **“Key”** field and **“chrome”** to the **“Value”** field (in lowercase).
+1. After the **“Edit Dashboard”** popup appears, enter the parameter **“PLATFORM”** (in uppercase) to the **“Key”** field and **“api”** to the **“Value”** field (in lowercase).
 2. Click **“Add”** and **“Save”**.
 3. Refresh the page.
 
 The dashboard will be displayed with updated results.
 
 **Note:** You can apply several parameters to a dashboard. But you can add only 1 value to a parameter.
+
+![Key and Value](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/key_and%20value.png?raw=true)
 
 ## Hidden dashboards
 Dashboards in Zebrunner can be visible or hidden.
