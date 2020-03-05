@@ -32,12 +32,12 @@ To edit a dashboard, perform the following steps:
 1. Navigate to the side menu and click the **“Dashboards”** icon. Choose the necessary dashboard.
 2. Click the pencil icon in the upper-right corner of the window.
 3. The **“Edit Dashboard”** popup will appear.
-4. Make the necessary changes to the dashboard (except for General): edit the name of the dashboard, make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have the **“View hidden dashboards”** permission).
+4. Make the necessary changes to the dashboard (except for General): 
+   * edit the name of the dashboard;
+   * make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have the **“View hidden dashboards”** permission).
 5. Click the **“Save”** button.
 
 The dashboard will be displayed with updates.
-
-![Edit Dashboard](/assets/images/edit_dashboard.png)
 
 **Optional:** If you have **“Modify widgets”** and **“Modify dashboards”** permissions, you can edit a dashboard by applying a certain parameter to all the widgets on a dashboard (instead of setting it for each widget manually).
 
