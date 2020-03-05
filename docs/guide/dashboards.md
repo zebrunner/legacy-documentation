@@ -77,6 +77,7 @@ To delete a dashboard, perform the following steps:
 2. Click the pencil icon in the upper-right corner of the window.
 3. The **“Edit Dashboard”** popup will appear.
 4. Press **“Delete”.**
+5. Submit the action.
 
 The dashboard and attached widgets will be deleted.
 
