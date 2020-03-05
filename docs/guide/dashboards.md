@@ -37,6 +37,8 @@ To edit a dashboard, perform the following steps:
 
 The dashboard will be displayed with updates.
 
+[Edit Dashboard](/assets/images/edit_dashboard.png)
+
 **Optional:** If you have **“Modify widgets”** and **“Modify dashboards”** permissions, you can edit a dashboard by applying a certain parameter to all the widgets on a dashboard (instead of setting it for each widget manually).
 
 For example, you want to see your test results on a dashboard for the Chrome browser only.
