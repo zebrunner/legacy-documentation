@@ -57,8 +57,6 @@ The dashboard will be displayed with updated results.
 
 **Note:** You can apply several parameters to a dashboard. But you can add only 1 value to a parameter.
 
-![Key and Value](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/key_and%20value.png?raw=true)
-
 ## Hidden dashboards
 Dashboards in Zebrunner can be visible or hidden.
 
