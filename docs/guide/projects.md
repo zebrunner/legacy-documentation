@@ -6,7 +6,6 @@ Use the **“Projects”** tab to switch between the projects you work on. Once 
 
 ## Create project
 To create a new project, perform the following steps:
-
 1. Navigate to the side menu and click the icon of your company at the top of the menu. Then press the **“+Add project"** button.
 2. The **“New Project”** popup will appear.
 3. Enter a name and description of a new project.
