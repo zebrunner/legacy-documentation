@@ -38,6 +38,8 @@ To edit a widget, perform the following steps:
 
 The widget will be displayed with updates.
 
+![Edit Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/edit_widget.gif?raw=true)
+
 ## Remove widget from dashboard
 To remove a widget from a dashboard, perform the following steps:
 
