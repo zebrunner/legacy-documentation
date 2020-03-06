@@ -14,6 +14,7 @@ To create a new project, perform the following steps:
 The new project will appear in the list of projects.
 
 ## Delete project
+
 To delete a project, perform the following steps:
 
 1. Navigate to the side menu and click the icon of your company at the top of the menu.
