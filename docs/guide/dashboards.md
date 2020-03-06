@@ -57,6 +57,8 @@ The dashboard will be displayed with updated results.
 
 **Note:** You can apply several parameters to a dashboard. But you can add only 1 value to a parameter.
 
+![Key and value](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/key_and%20value.png?raw=true)
+
 ## Hidden dashboards
 Dashboards in Zebrunner can be visible or hidden.
 
@@ -83,6 +85,8 @@ The dashboard and attached widgets will be deleted.
 
 **Note:** You cannot delete the General dashboard.
 
+![Delete Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/delete_dashboard.png?raw=true)
+
 ## Send dashboard via email
 To send a dashboard via email, perform the following steps:
 
@@ -95,12 +99,16 @@ To send a dashboard via email, perform the following steps:
 
 A popup message **“Email was successfully sent”** will appear in the lower-right corner of the window.
 
+![Send Dashboard via email](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_dashboard_via_email.png?raw=true)
+
 ## Search for dashboard
 To search for a dashboard, perform the following steps:
 
 1. Navigate to the side menu and click the **“Dashboards”** icon.
 2. Go to the **“Search”** field and enter the name/part of the name of a dashboard.
 3. Choose the necessary dashboard.
+
+![Search for Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/search_for_dashboard.gif?raw=true)
 
 ## Change the order of dashboards
 To change the order of dashboards, perform the following steps:
@@ -110,3 +118,5 @@ To change the order of dashboards, perform the following steps:
 3. Drag and drop the chosen dashboard to the necessary place.
 
 Dashboards will be displayed in a new order.
+
+![Change Order of Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/%D1%81hange_order_of_dashboards.gif?raw=true)
