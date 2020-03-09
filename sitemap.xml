@@ -1,74 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>/</loc>
+     <loc>None</loc>
      <lastmod>2020-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/dashboards_and_widgets/</loc>
+     <loc>None</loc>
      <lastmod>2020-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/getting_started/</loc>
+     <loc>None</loc>
      <lastmod>2020-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
-     <loc>/guide/dashboards/</loc>
+     <loc>None</loc>
      <lastmod>2020-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/guide/integrations/</loc>
+     <loc>None</loc>
      <lastmod>2020-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/guide/projects/</loc>
+     <loc>None</loc>
      <lastmod>2020-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/guide/test_runs_and_sessions/</loc>
+     <loc>None</loc>
      <lastmod>2020-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/guide/user_management/</loc>
+     <loc>None</loc>
      <lastmod>2020-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/guide/user_profile/</loc>
+     <loc>None</loc>
      <lastmod>2020-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/guide/widgets/</loc>
-     <lastmod>2020-03-09</lastmod>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
 </urlset>
