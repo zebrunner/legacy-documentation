@@ -2,9 +2,9 @@
 
 ## Test runs
 
-The Test runs page allows you to launch tests from your GitHub repository, see detailed test results in real time and on a test run finish.
+The **Test runs page** allows you to launch tests from your GitHub repository, see detailed test results in real time and on a test run finish.
 
-To access the Test runs page, go to the side menu and click on the Test runs icon. All the actions with test runs are performed on this page.
+To access the Test runs page, go to the side menu and click on the **Test runs** icon. All the actions with test runs are performed on this page.
 
 ### Test launches
 
