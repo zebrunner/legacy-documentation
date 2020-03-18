@@ -26,7 +26,7 @@ To create a new dashboard, perform the following steps:
 
 Now you can add widgets to the new dashboard.
 
-![Create Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/%D1%81reate_dashboard.gif?raw=true)
+![Create Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_dashboard.gif)
 
 ## Edit dashboard
 To edit a dashboard, perform the following steps:
@@ -39,7 +39,7 @@ To edit a dashboard, perform the following steps:
 
 The dashboard will be displayed with updates.
 
-![Edit Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/edit_dashboard.png?raw=true)
+![Edit Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/edit_dashboard.png)
 
 **Optional:** If you have **“Modify widgets”** and **“Modify dashboards”** permissions, you can edit a dashboard by applying a certain parameter to all the widgets on a dashboard (instead of setting it for each widget manually).
 
@@ -55,6 +55,8 @@ The dashboard will be displayed with updated results.
 
 **Note:** You can apply several parameters to a dashboard. But you can add only 1 value to a parameter.
 
+![Key and Value](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/key_and_value.png)
+
 ## Hidden dashboards
 Dashboards in Zebrunner can be visible or hidden.
 
@@ -67,6 +69,8 @@ Hidden dashboards are useful when:
 **Note:** You need the **“View hidden dashboards”** permission to make a dashboard hidden. Otherwise, you will not see this option.
 
 To make a dashboard hidden, open **“New dashboard”** or **“Edit dashboard”** popup and turn on the switch **“Hidden”**.
+
+![Hidden Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/hidden_dashboards.png)
 
 ## Delete dashboard
 To delete a dashboard, perform the following steps:
@@ -81,6 +85,8 @@ The dashboard and attached widgets will be deleted.
 
 **Note:** You cannot delete the General dashboard.
 
+![Delete Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/delete_dashboard.png)
+
 ## Send dashboard via email
 To send a dashboard via email, perform the following steps:
 
@@ -92,6 +98,8 @@ To send a dashboard via email, perform the following steps:
 6. Press the **“Send”** button.
 
 A popup message **“Email was successfully sent”** will appear in the lower-right corner of the window.
+
+![Send Dashboard via Email](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_dashboard_via_email.png)
 
 ## Search for dashboard
 To search for a dashboard, perform the following steps:
