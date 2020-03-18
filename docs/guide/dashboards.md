@@ -26,6 +26,8 @@ To create a new dashboard, perform the following steps:
 
 Now you can add widgets to the new dashboard.
 
+![Create Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/%D1%81reate_dashboard.gif?raw=true)
+
 ## Edit dashboard
 To edit a dashboard, perform the following steps:
 
@@ -53,7 +55,7 @@ The dashboard will be displayed with updated results.
 
 **Note:** You can apply several parameters to a dashboard. But you can add only 1 value to a parameter.
 
-![Key and value](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/key_and%20value.png?raw=true)
+![Key and value]
 
 ## Hidden dashboards
 Dashboards in Zebrunner can be visible or hidden.
