@@ -26,6 +26,8 @@ To create a new dashboard, perform the following steps:
 
 Now you can add widgets to the new dashboard.
 
+![Create Dashboard](https://raw.githubusercontent.com/zebrunner/documentation/master/docs/assets/images/%D1%81reate_dashboard.gif)
+
 ## Edit dashboard
 To edit a dashboard, perform the following steps:
 
