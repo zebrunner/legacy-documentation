@@ -108,6 +108,8 @@ To search for a dashboard, perform the following steps:
 2. Go to the **“Search”** field and enter the name/part of the name of a dashboard.
 3. Choose the necessary dashboard.
 
+![Search for Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/search_for_dashboard.gif?raw=true)
+
 ## Change the order of dashboards
 To change the order of dashboards, perform the following steps:
 
@@ -116,3 +118,5 @@ To change the order of dashboards, perform the following steps:
 3. Drag and drop the chosen dashboard to the necessary place.
 
 Dashboards will be displayed in a new order.
+
+![Change the Order of Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/change_order_of_dashboards.gif?raw=true)
