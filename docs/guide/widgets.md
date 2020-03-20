@@ -18,9 +18,11 @@ To create a new widget, perform the following steps:
 3. Choose a template for a widget or go to the **“Choose from existing widgets”** section with a set of predefined widgets. To simplify the process, fill in the search field with a name or part of a widget name.
 4. Click on a widget to see its preview.
 5. If you’ve chosen a template for a widget:
+
   * Click the **“Next”** button.
   * Set the necessary parameters. There are two types of them: basic and advanced ones. To see advanced parameters, click **“Show more”**.
   * Click **“Next”** and enter a name and description of the future widget.
+  
 6. Click the **“Add”** button.
 
 The created widget will be automatically added to a dashboard.
@@ -48,6 +50,8 @@ To remove a widget from a dashboard, perform the following steps:
 
 A widget will be removed from a dashboard, but the information will not be lost. You can create a widget with the same settings later, actual data will be displayed.
 
+![Remove Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/remove_widget.gif?raw=true)
+
 ## Send widget by email
 To send a widget via email, perform the following steps:
 
@@ -60,6 +64,8 @@ To send a widget via email, perform the following steps:
 
 A pop-up message **“Email was successfully sent”** will appear in the lower-right corner of the window.
 
+![Send Widget by Email](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_widget_by_email.gif?raw=true)
+
 ## Change widget placement 
 To change a widget placement within a dashboard area, perform the following steps:
 
@@ -67,6 +73,8 @@ To change a widget placement within a dashboard area, perform the following step
 2.	Drag and drop a widget to the selected position.
 3.	When you move the widget to the area with enough space, the system marks this place with a dotted line.
 4.	Press the **“Apply”** button.
+
+![Change Widget Placement](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/change_widget_placement.gif?raw=true)
 
 ## Resize widget
  
