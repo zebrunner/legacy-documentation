@@ -15,19 +15,30 @@ To create a new widget, perform the following steps:
 
 1. Click the **"+ NEW WIDGET"** button in the top-right corner of the **“Dashboards”** page.
 2. The **Widget wizard** will be opened.
-3. Choose a template for a widget or go to the **“Choose from existing widgets”** section with a set of predefined widgets. To simplify the process, fill in the search field with a name or part of a widget name.
-4. Click on a widget to see its preview.
-5. If you’ve chosen a template for a widget:
 
-  * Click the **“Next”** button.
+**You have 2 options:** choose a template for a widget or go to the **“Choose from existing widgets”** section with a set of predefined widgets. To simplify the process, fill in the search field with a name or part of a widget name. 
+
+**If you want to add an existing widget:**
+
+* Go to the **“Choose from existing widgets”** section.
+* Click the widget you need and see its preview.
+* Press **"Add"**.
+
+**Note:** When you’ve added an existing widget to a dashboard, it will be marked with the word **"Added"** and a checkmark.
+
+![Create Existing Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_widget_from_existing.gif?raw=true)
+
+**If you want to choose a template for a widget:**
+
+  * In a **"Choose template"** section, click the widget you need and see its preview.
+  * Press **“Next”**.
   * Set the necessary parameters. There are two types of them: basic and advanced ones. To see advanced parameters, click **“Show more”**.
-  * Click **“Next”** and enter a name and description of the future widget.
-  
-6. Click the **“Add”** button.
+  * Press **“Next”** and enter a name and description of the future widget.
+  * Press **“Add”**.
 
 The created widget will be automatically added to a dashboard.
 
-When you’ve added an existing widget to a dashboard, it will be marked with the word **"Added"** and a checkmark.
+![Create Existing Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_widget_from_templates.gif?raw=true)
 
 ## Edit widget
 To edit a widget, perform the following steps:
