@@ -96,4 +96,4 @@ Every widget has a basic size. To resize a widget, perform the following steps:
 3.	Grab the arrow with the cursor and drag it to the desired width and height.
 4.	Press the **“Apply”** button.
 
-![Resize Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/resize_widget.gif?raw=true)
+![Resize Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/resize_widget.gif?raw=true) 
