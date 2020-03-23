@@ -40,5 +40,3 @@ To change your company logo (this icon opens the **“Projects”** tab), perfor
 3. Upload or drop a file from your computer and click **“Upload”.**
 
 The logo will be updated.
-
-![Change Company Logo](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/change_company_logo.png?raw=true)
