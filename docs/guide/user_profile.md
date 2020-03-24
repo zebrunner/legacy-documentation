@@ -21,7 +21,7 @@ In the Access token area, copy **Service URL** and **Access token** (you can gen
 ![Access Token](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/profile_access_token.gif?raw=true)
 
 ### Personal data
-In this area, you can see your personal information: **Username, Email, First and Last Name.** 
+In this area, you can see your personal information: **Username, Email, First and Last Name.**  
 
 Both **Username** and **Email** are set when creating a profile, you cannot change them. **First Name** and **Last Name** are editable. 
 
