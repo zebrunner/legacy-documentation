@@ -27,7 +27,7 @@ To access the Users page, navigate to the side menu and click the **“User mana
 
 **Note:** You need **“View users”** permission to see this page!
 
-![Users Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/users_page.png?raw=true)
+![Users Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/users_management_page.png?raw=true) 
 
 On the Users page, for every user you can see:
 
@@ -41,7 +41,7 @@ On the Users page, for every user you can see:
 
 Go to the **User settings** (the 3-dot button beside the user name), press **“Performance”**, and you will be redirected to a personal dashboard displaying the performance of a chosen user.
 
-![User Performance](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/users_performance.png?raw=true)
+![User Performance](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/users_management_performance.png?raw=true)
 
 ## Invitations
 
