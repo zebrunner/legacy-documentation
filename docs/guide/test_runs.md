@@ -1,16 +1,14 @@
-# Test runs and sessions
-
-## Test runs
+# Test runs
 
 The **Test runs page** allows you to launch tests from your GitHub repository, see detailed test results in real time and on a test run finish.
 
 To access the Test runs page, go to the side menu and click on the **Test runs** icon. All the actions with test runs are performed on this page.
 
-### Test launches
+## Test launches
 
 To start running tests, you need to add your GitHub repository. Or choose our Carina demo repository to try out the Zebrunner testing process (the option is available while you are creating your company).
 
-#### Add repository
+### Add repository
 
 To add a new repository, perform the following steps:
 
@@ -25,7 +23,7 @@ To add a new repository, perform the following steps:
 
 Multiple launchers will be created for API, web, and mobile tests.
 
-#### Remove repository
+### Remove repository
 
 To remove a repository, perform the following steps: 
 
@@ -36,7 +34,7 @@ To remove a repository, perform the following steps:
 
 The repository will be removed from the list.
 
-#### Provide branch for automatic scanner
+### Provide branch for automatic scanner
 
 To provide a branch for automatic scanner, perform the following steps: 
 
@@ -46,7 +44,7 @@ To provide a branch for automatic scanner, perform the following steps:
 4. Choose the branch.
 5. Press **“Scan”.**
 
-#### Create launcher manually
+### Create launcher manually
 
 To create a test launcher manually, perform the following steps:
 
@@ -58,7 +56,7 @@ To create a test launcher manually, perform the following steps:
 
 The new launcher template will be added with a tag **“Manual creation” (“M”).**
 
-#### Launch test run
+### Launch test run
 
 To launch a test run, perform the following steps:
 
@@ -74,7 +72,7 @@ To launch a test run, perform the following steps:
 The test run will be in the compilation state.
 After it switches to **“In-progress”** (marked blue), you can track the automation results in real time.
 
-#### Remove launcher
+### Remove launcher
 
 To remove a launcher, perform the following steps:
 
@@ -86,7 +84,7 @@ To remove a launcher, perform the following steps:
 
 The launcher will be removed from the list.
 
-### Test run results
+## Test run results
 
 On the Test runs page, you can see all the test runs that have been executed recently. Moreover, view test run details, logs and video recordings, share test results with your colleagues.
 
@@ -97,7 +95,7 @@ On the Test Runs page, for every test launch you can see:
 * The number of passed, skipped, failed, etc. tests
 * Execution time.
 
-#### Filter test runs
+### Filter test runs
 
 At the top of the Test Runs page, you can filter the results by different criteria:
 
@@ -108,7 +106,7 @@ At the top of the Test Runs page, you can filter the results by different criter
 * Time range
 * Name of a test suite.
 
-#### Add stored filter
+### Add stored filter
 
 You can create a custom filter that will be used on a daily basis by you and your teammates.
 
@@ -118,7 +116,7 @@ You can create up to 30 new parameter sets at once.
 
 After you are done, press **“Create”.**
 
-#### View test run results
+### View test run results
 
 To analyze test run results, click on any item in the list. Or go to the **Test run menu** (3-dot button on the left) and click **“Open”** (the **Test results page** will be opened in a new window).
 
@@ -133,7 +131,7 @@ For every test, you can see the following details:
 
 Stack trace is provided for failed tests.
 
-##### Filter/group tests
+#### Filter/group tests
 
 You can filter test results by statuses (passed, failed, skipped, aborted, in_progress) by clicking on coloured dots in the upper-right area of the page.
 
@@ -144,11 +142,11 @@ Or group tests by different criteria in the upper-left area of the page:
 
 View all tests by returning to the **“Plain”** category.
 
-###### Mark test as passed/failed
+##### Mark test as passed/failed
 
 To mark a test as passed/failed, on the **Test results page**, click on the **Test menu** (3-dot button) and press **“Mark test as passed/failed”.**
 
-###### Link known issue to test
+##### Link known issue to test
 
 This option is available only for failed tests.
 
@@ -158,7 +156,7 @@ The red label will appear, the same one will be displayed in test statistics.
 
 After you link a known issue from Jira to a failed test, next time you get the same stack trace, the test run will be automatically identified and displayed with the same label.
 
-##### Analyze test flow
+#### Analyze test flow
 
 To analyze the test flow and see additional information about it, click the **“Details”** button (eye icon).
 
@@ -168,16 +166,16 @@ Turn on the video to view the test flow with comments of what is going on right 
 
 Under the video player, get the idea of test platform/browser, actual test status, its date and duration.
 
-#### Share test run results
+### Share test run results
 
-##### Copy link
+#### Copy link
 
 To copy the link to test run results, perform the following steps.
 
 1. On the **Test runs page**, go to the **Test run menu** (click the 3-dot button on the left).
 2. Press **“Copy link”.**
 
-##### Send as email
+#### Send as email
 
 To send test results via email, perform the following steps:
 
@@ -189,7 +187,7 @@ To send test results via email, perform the following steps:
 
 A popup message **“Email was successfully sent”** will appear in the lower-right corner of the window.
 
-##### Export to HTML
+#### Export to HTML
 
 You can export test results to an HTML file and send it to your colleagues.
 
@@ -198,7 +196,7 @@ For this, perform the following steps:
 2. Press **“Export to HTML”.**
 3. Save the document on your computer.
 
-#### Mark test run as reviewed
+### Mark test run as reviewed
 
 To mark a test run as reviewed, perform the following steps:
 
@@ -210,7 +208,7 @@ To mark a test run as reviewed, perform the following steps:
 
 A mark **“R”** will appear beside the test run name.
 
-#### Rerun/build test
+### Rerun/build test
 
 To rerun tests with the same parameters, perform the following steps:
 
@@ -228,7 +226,7 @@ To run tests with additional parameters, perform the following steps:
 4. Change the proposed parameters.
 5. Press **“Build now”.**
 
-#### Delete test run
+### Delete test run
 
 To delete a test run, perform the following steps:
 
