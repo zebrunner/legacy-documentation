@@ -149,11 +149,11 @@ Or group tests by different criteria in the upper-left area of the page:
 
 View all tests by returning to the **“Plain”** category.
 
-##### Mark test as passed/failed
+#### Mark test as passed/failed
 
 To mark a test as passed/failed, on the **Test results page**, click on the **Test menu** (3-dot button) and press **“Mark test as passed/failed”.**
 
-##### Link known issue to test
+#### Link known issue to test
 
 This option is available only for failed tests.
 
