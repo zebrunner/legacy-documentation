@@ -96,11 +96,12 @@ On the Test runs page, you can see all the test runs that have been executed rec
 
 On the Test Runs page, for every test launch you can see:
 
-* Test suite name and type
-* Environment
-* Platform/browser
-* The number of passed, skipped, failed, etc. tests
-* Execution time.
+1. Test suite name and type.
+2. Environment.
+3. Platform/browser.
+4. The number of passed, skipped, failed, etc. tests.
+5. Execution time.
+6. Settings (the 3-dot button).
 
 ### Filter test runs
 
