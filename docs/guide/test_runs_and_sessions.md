@@ -1,8 +1,14 @@
 # Test runs
 
+On the very first login to Zebrunner, you will be asked to select one of the two screen modes: **Integration via agent (Tests)** or **Selenium Hub (Tests).** This view will be displayed by default when you open the **Test runs/Test sessions page.**
+
+If you skip this step, **Integration via agent (Test runs view)** will be enabled by default. You can easily switch between the 2 modes by using the control on the **Test runs/Test sessions page.**
+
 The **Test runs page** allows you to launch tests from your GitHub repository, see detailed test results in real time and on a test run finish.
 
-To access the Test runs page, go to the side menu and click on the **Test runs** icon. All the actions with test runs are performed on this page.
+To access the Test runs page, go to the side menu and click on the **Test runs** icon. If the **Test runs mode** is not set by default, click on the **“Tests/Sessions”** switch in the upper-right corner of the window.
+
+All the actions with test runs are performed on this page.
 
 ## Test launches
 
