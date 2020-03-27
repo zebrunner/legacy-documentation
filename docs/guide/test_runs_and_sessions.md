@@ -89,6 +89,7 @@ The launcher will be removed from the list.
 On the Test runs page, you can see all the test runs that have been executed recently. Moreover, view test run details, logs and video recordings, share test results with your colleagues.
 
 On the Test Runs page, for every test launch you can see:
+
 * Test suite name and type
 * Environment
 * Platform/browser
