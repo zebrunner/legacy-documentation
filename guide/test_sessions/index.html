@@ -98,7 +98,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="../../#welcome-to-mkdocs" tabindex="1" class="md-skip">
+      <a href="../../#test-sessions" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -457,16 +457,56 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#commands" title="Commands" class="md-nav__link">
-    Commands
+  <a href="#integration-via-agent-vs-selenium-hub" title="Integration via agent vs Selenium Hub" class="md-nav__link">
+    Integration via agent vs Selenium Hub
   </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tests-integration-via-agent" title="Tests: Integration via agent" class="md-nav__link">
+    Tests: Integration via agent
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sessions-selenium-hub" title="Sessions: Selenium Hub" class="md-nav__link">
+    Sessions: Selenium Hub
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#project-layout" title="Project layout" class="md-nav__link">
-    Project layout
+  <a href="#test-sessions-page" title="Test sessions page" class="md-nav__link">
+    Test sessions page
   </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#view-test-session-info" title="View test session info" class="md-nav__link">
+    View test session info
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#generate-access-token" title="Generate access token" class="md-nav__link">
+    Generate access token
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -531,16 +571,56 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#commands" title="Commands" class="md-nav__link">
-    Commands
+  <a href="#integration-via-agent-vs-selenium-hub" title="Integration via agent vs Selenium Hub" class="md-nav__link">
+    Integration via agent vs Selenium Hub
   </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tests-integration-via-agent" title="Tests: Integration via agent" class="md-nav__link">
+    Tests: Integration via agent
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sessions-selenium-hub" title="Sessions: Selenium Hub" class="md-nav__link">
+    Sessions: Selenium Hub
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#project-layout" title="Project layout" class="md-nav__link">
-    Project layout
+  <a href="#test-sessions-page" title="Test sessions page" class="md-nav__link">
+    Test sessions page
   </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#view-test-session-info" title="View test session info" class="md-nav__link">
+    View test session info
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#generate-access-token" title="Generate access token" class="md-nav__link">
+    Generate access token
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -563,21 +643,56 @@
                   <a href="https://github.com/zebrunner/zebrunner/edit/master/docs/guide/test_sessions.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="welcome-to-mkdocs">Welcome to MkDocs</h1>
-<p>For full documentation visit <a href="http://mkdocs.org">mkdocs.org</a>.</p>
-<h2 id="commands">Commands</h2>
+                <h1 id="test-sessions">Test sessions</h1>
+<h2 id="integration-via-agent-vs-selenium-hub">Integration via agent vs Selenium Hub</h2>
+<p>On the very first login to Zebrunner, you will be asked to select one of the two screen modes: <strong>Integration via agent (Tests)</strong> or <strong>Selenium Hub (Tests).</strong> This view will be displayed by default when you open the <strong>Test runs/Test sessions page.</strong></p>
+<p>If you skip this step, <strong>Integration via agent (Tests)</strong> will be enabled by default. You can switch between the 2 modes by using the control on the <strong>Test runs/Test sessions page.</strong></p>
+<h3 id="tests-integration-via-agent">Tests: Integration via agent</h3>
+<p>If you choose this mode, you will need to integrate Zebrunner Agent into your automation framework. </p>
+<p>The agent allows to track test results in real time, apply detailed configuration and publish artifacts within one tool. It provides:</p>
 <ul>
-<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>
-<li><code>mkdocs serve</code> - Start the live-reloading docs server.</li>
-<li><code>mkdocs build</code> - Build the documentation site.</li>
-<li><code>mkdocs help</code> - Print this help message.</li>
+<li>Video recordings</li>
+<li>Session logs</li>
+<li>Known issues tracking</li>
+<li>Test artifacts</li>
 </ul>
-<h2 id="project-layout">Project layout</h2>
-<pre><code>mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-</code></pre>
+<p>This mode requires integration via client library that you can find in our regional GitHub repos.</p>
+<h3 id="sessions-selenium-hub">Sessions: Selenium Hub</h3>
+<p>This is the easiest way to run tests in Zebrunner infrastructure. You need to generate an access token and configure your tests to use <strong>Zebrunner Selenium URL.</strong></p>
+<p>This mode provides:</p>
+<ul>
+<li>Real-time test sessions tracking</li>
+<li>Video recordings
+** Session logs</li>
+</ul>
+<h2 id="test-sessions-page">Test sessions page</h2>
+<p>The <strong>Test sessions page</strong> allows you to view the list of test sessions executed recently and see detailed information about the testing process.</p>
+<p>To access the <strong>Test sessions page,</strong> go to the side menu and click on the <strong>"Test runs/Test sessions button"</strong> (the play icon on the side menu). If the <strong>Test sessions mode</strong> is not set by default, click on the <strong>“Tests/Sessions”</strong> switch in the upper-right corner of the window.</p>
+<p>All the actions with test sessions are performed on this page.</p>
+<h3 id="view-test-session-info">View test session info</h3>
+<p>On the <strong>Test sessions page</strong>, for every item you can see:</p>
+<ul>
+<li>Test and build name</li>
+<li>Test session status</li>
+<li>Environment</li>
+<li>Execution time</li>
+<li>Start date</li>
+</ul>
+<p>After you click a test session item, the <strong>Test session results page</strong> will be opened. </p>
+<p>See the test logs captured from Selenium or Appium server in the area to the left, watch how the test session was executed in the video recording to the right, find the status of your test and other information (start date, duration, platform) in the area below.</p>
+<h3 id="generate-access-token">Generate access token</h3>
+<p>To generate an access token, perform the following steps:</p>
+<ol>
+<li>On the <strong>Test sessions page</strong>, click the <strong>“Access key”</strong> button in the top-right corner of the page.</li>
+<li>The <strong>Access key popup</strong> will appear.</li>
+<li>At the top of the popup, in the <strong>"Access URL"</strong> field, generate a new access token (click the lifecycle icon) and copy it (click the icon beside).</li>
+<li>In the area below, generate the capabilities required to run tests in your language (switch between Java, C#, Go, Ruby, Python, PHP, Webdriver.io).</li>
+<li>Select the platform (Android/Web), application, browser name and version, video resolution.</li>
+<li>All the changes will be immediately applied in the code area below.</li>
+<li>Specify the test name and build name, if needed, in the field called <strong>“name”</strong>, separate them with a # sign.</li>
+<li>Click <strong>“Copy”.</strong> </li>
+</ol>
+<p>The capabilities will be copied into your clipboard, now you can place them in your favourite id and run your tests in our environment.</p>
                 
                   
                 
