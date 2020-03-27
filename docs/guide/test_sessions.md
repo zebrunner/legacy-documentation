@@ -1,6 +1,6 @@
 # Test sessions
 
-## Integration via agent vs Selenium Hub
+## Integration via agent/Selenium Hub
 
 On the very first login to Zebrunner, you will be asked to select one of the two screen modes: **Integration via agent (Tests)** or **Selenium Hub (Tests).** This view will be displayed by default when you open the **Test runs/Test sessions page.**
 
@@ -27,7 +27,7 @@ This mode provides:
 
 * Real-time test sessions tracking
 * Video recordings
-** Session logs
+* Session logs
 
 ## Test sessions page
 
