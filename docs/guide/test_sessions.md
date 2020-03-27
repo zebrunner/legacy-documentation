@@ -1,35 +1,8 @@
 # Test sessions
 
-## Integration via agent/Selenium Hub
-
 On the very first login to Zebrunner, you will be asked to select one of the two screen modes: **Integration via agent (Tests)** or **Selenium Hub (Tests).** This view will be displayed by default when you open the **Test runs/Test sessions page.**
 
 If you skip this step, **Integration via agent (Tests)** will be enabled by default. You can switch between the 2 modes by using the control on the **Test runs/Test sessions page.**
-
-### Tests: Integration via agent
-
-If you choose this mode, you will need to integrate Zebrunner Agent into your automation framework. 
-
-The agent allows to track test results in real time, apply detailed configuration and publish artifacts within one tool. It provides:
-
-* Video recordings
-* Session logs
-* Known issues tracking
-* Test artifacts
-
-This mode requires integration via client library that you can find in our regional GitHub repos.
-
-### Sessions: Selenium Hub
-
-This is the easiest way to run tests in Zebrunner infrastructure. You need to generate an access token and configure your tests to use **Zebrunner Selenium URL.**
-
-This mode provides:
-
-* Real-time test sessions tracking
-* Video recordings
-* Session logs
-
-## Test sessions page
 
 The **Test sessions page** allows you to view the list of test sessions executed recently and see detailed information about the testing process.
 
@@ -37,7 +10,7 @@ To access the **Test sessions page,** go to the side menu and click on the **"Te
 
 All the actions with test sessions are performed on this page.
 
-### View test session info
+## View test session info
 
 On the **Test sessions page**, for every item you can see:
 
@@ -51,7 +24,7 @@ After you click a test session item, the **Test session results page** will be o
 
 See the test logs captured from Selenium or Appium server in the area to the left, watch how the test session was executed in the video recording to the right, find the status of your test and other information (start date, duration, platform) in the area below.
 
-### Generate access token
+## Generate access token
 
 To generate an access token, perform the following steps:
 
