@@ -144,6 +144,7 @@ Stack trace is provided for failed tests.
 You can filter test results by statuses (passed, failed, skipped, aborted, in_progress) by clicking on coloured dots in the upper-right area of the page.
 
 Or group tests by different criteria in the upper-left area of the page:
+
 * Class name
 * Package name
 * Tags
