@@ -100,7 +100,7 @@ On the Test Runs page, for every test launch you can see:
 2. Environment.
 3. Platform/browser.
 4. The number of passed, skipped, failed, etc. tests.
-5. Execution time.
+5. Execution time and start day.
 6. Settings (the 3-dot button).
 
 ### Filter test runs
