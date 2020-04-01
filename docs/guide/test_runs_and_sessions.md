@@ -107,12 +107,13 @@ On the Test Runs page, for every test launch you can see:
 
 At the top of the Test Runs page, you can filter the results by different criteria:
 
-* Test status (passed, failed, skipped, aborted, in_progress, queued, unknown)
-* Environment
-* Platform name 
-* Browser name
-* Time range
-* Name of a test suite.
+1. Name.
+2. Reviewed/not reviewed.
+3. Test status (passed, failed, skipped, aborted, in_progress, queued, unknown).
+4. Environment.
+5. Platform name.
+6. Browser name.
+7. Start date.
 
 ### Add stored filter
 
