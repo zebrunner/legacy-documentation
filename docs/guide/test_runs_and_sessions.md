@@ -236,7 +236,7 @@ To send test results via email, perform the following steps:
 4. Fill in the **“Recipients”** field (unlimited number of emails per time).
 6. Press the **“Send”** button.
 
-A popup message **“Email was successfully sent”** will appear in the lower-right corner of the window.
+A popup message **“Email was successfully sent”** will appear in the lower-right corner of the window. 
 
 ![Send as Email](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_test_run_as_email.png?raw=true)
 
