@@ -2,7 +2,7 @@
 
 On the very first login to Zebrunner, you will be asked to select one of the two screen modes: **Integration via agent (Tests)** or **Selenium Hub (Tests).** This view will be displayed by default when you open the **Test runs/Test sessions page.**
 
-If you skip this step, **Integration via agent (Tests)** will be enabled by default. You can switch between the 2 modes by using the control on the **Test runs/Test sessions page.**
+If you skip this step, **Integration via agent (Tests)** will be enabled by default. You can switch between the 2 modes by using the control on the **Test runs/Test sessions page.** 
 
 ![Test Runs and Test Sessions](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_and_sessions.png?raw=true)
 
