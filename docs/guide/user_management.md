@@ -20,16 +20,15 @@ By default, **Admins** have the following permissions:
 
 
 ## Users
+**Users** page shows all the users registered in the company.
 
-**Users page** shows all the users registered in the company.
+To access the **Users** page, navigate to the side menu and click the **“User management”** icon, then press **“Users”.**
 
-To access the Users page, navigate to the side menu and click the **“User management”** icon, then press **“Users”.**
-
-**Note:** You need **“View users”** permission to see this page!
+**Note:** You need the **“View users”** permission to see this page!
 
 ![Users Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/users_management_page.png?raw=true) 
 
-On the Users page, for every user you can see:
+**On the Users page, for every user you can see:**
 
 * ID
 * Username 
@@ -44,16 +43,16 @@ Go to the **User settings** (the 3-dot button beside the user name), press **“
 ![User Performance](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/users_management_performance.png?raw=true)
 
 ## Invitations
+You can invite users to your company on the **Invitations** page.
 
-You can invite users to your company on the **Invitations page.**
+To access the **Invitations** page, navigate to the side menu and click the **“User management”** icon, then press **“Invitations”.**
 
-To access the Invitations page, navigate to the side menu and click the **“User management”** icon, then press **“Invitations”.**
-
-**Note:** You need **“Invite users”** permission to see this page!
+**Note:** You need the **“Invite users”** permission to see this page!
 
 ![Invitations Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/invitations_page.png?raw=true)
 
-On the Invitations page, you can see the list of all invitations sent in your company 
+On the **Invitations** page, you can see the list of all invitations sent in your company.
+
 Use the Search field at the top of the page to find the necessary invitation.
 
 ### Send invitation
@@ -70,7 +69,7 @@ Invitations will be sent to the specified emails. Users need to accept the invit
 ![Send Invitation](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_invitation.gif?raw=true)
 
 ### Manage invitations
-Invitation status **ACCEPTED**: If you click on the invitation’s menu and select “Profile”, you will be redirected to the Users page.
+Invitation status **ACCEPTED**: If you click on the invitation’s menu and select **“Profile”**, you will be redirected to the **Users** page.
 
 Invitation status **PENDING**: By clicking on the invitation’s menu, you can:
 
