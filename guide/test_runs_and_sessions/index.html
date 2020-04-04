@@ -906,11 +906,11 @@
                 
                 
                 <h1 id="test-runs">Test runs</h1>
-<p>On the very first login to Zebrunner, you will be asked to select one of the two screen modes: <strong>Integration via agent (Tests)</strong> or <strong>Selenium Hub (Tests).</strong> This view will be displayed by default when you open the <strong>Test runs/Test sessions page.</strong></p>
-<p>If you skip this step, <strong>Integration via agent (Test runs view)</strong> will be enabled by default. You can easily switch between the 2 modes by using the control on the <strong>Test runs/Test sessions page.</strong></p>
+<p>On the very first login to Zebrunner, you will be asked to select one of the two screen modes: <strong>Integration via agent (Tests)</strong> or <strong>Selenium Hub (Sessions).</strong> This view will be displayed by default when you open the <strong>Test runs/Test sessions</strong> page.</p>
+<p>If you skip this step, <strong>Integration via agent (Test runs view)</strong> will be enabled by default. You can easily switch between the 2 modes by using the control on the <strong>Test runs/Test sessions</strong> page.</p>
 <p><img alt="Test Runs and Test Sessions" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_and_sessions.png?raw=true" /></p>
 <p>The <strong>Test runs page</strong> allows you to launch tests from your GitHub repository, see detailed test results in real time and on a test run finish.</p>
-<p>To access the Test runs page, go to the side menu and click on the <strong>Test runs</strong> icon. If the <strong>Test runs mode</strong> is not set by default, click on the <strong>“Tests/Sessions”</strong> switch in the upper-right corner of the window.</p>
+<p>To access the <strong>Test runs</strong> page, go to the side menu and click the <strong>Test runs</strong> icon. If the <strong>Test runs mode</strong> is not set by default, click on the <strong>“Tests/Sessions”</strong> switch in the upper-right corner of the window.</p>
 <p>All the actions with test runs are performed on this page.</p>
 <p><img alt="Test Runs Page" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_page.gif?raw=true" /></p>
 <h2 id="test-launches">Test launches</h2>
@@ -918,13 +918,13 @@
 <h3 id="add-repository">Add repository</h3>
 <p>To add a new repository, perform the following steps:</p>
 <ol>
-<li>On the Test runs page, click the <strong>“Test launcher”</strong> button.</li>
+<li>On the <strong>Test runs</strong> page, click the <strong>“Test launcher”</strong> button.</li>
 <li>The <strong>Launcher wizard</strong> will be opened.</li>
 <li>Click the <strong>“+Add repo”</strong> button.</li>
 <li>Provide valid credentials for your GitHub account (select the organization of your user and the repository that contains automation tests).</li>
 <li>Press <strong>“Add”.</strong></li>
 <li>Select the automation server and the branch.</li>
-<li>Press <strong>“Scan”.</strong> The scanner will pick up all the test XML files and create a launcher template for every XML. It may take a few minutes to complete this task.</li>
+<li>Press <strong>“Scan”.</strong> The scanner will pick up all the test XML files and create a launcher template for every XML. This action may take a couple of minutes.</li>
 <li>When you see the <strong>“Done”</strong> message, click <strong>“Back to list”.</strong></li>
 </ol>
 <p>Multiple launchers will be created for API, web, and mobile tests.</p>
@@ -932,7 +932,7 @@
 <h3 id="remove-repository">Remove repository</h3>
 <p>To remove a repository, perform the following steps: </p>
 <ol>
-<li>On the Test runs page, click the <strong>“Test launcher”</strong> button.</li>
+<li>On the <strong>Test runs</strong> page, click the <strong>“Test launcher”</strong> button.</li>
 <li>The <strong>Launcher wizard</strong> will be opened.</li>
 <li>Click the gear button beside the repository name.</li>
 <li>Press <strong>“Delete repo”</strong> at the bottom of the wizard.</li>
@@ -942,7 +942,7 @@
 <h3 id="create-launcher-manually">Create launcher manually</h3>
 <p>To create a test launcher manually, perform the following steps:</p>
 <ol>
-<li>On the Test runs page, click the <strong>“Test launcher”</strong> button.</li>
+<li>On the <strong>Test runs</strong> page, click the <strong>“Test launcher”</strong> button.</li>
 <li>The <strong>Launcher wizard</strong> will be opened.</li>
 <li>Click the <strong>“+”</strong> button beside the repository name.</li>
 <li>Create a new template specifying the template name, choosing the platform and the template, adding or removing arguments.</li>
@@ -953,22 +953,22 @@
 <h3 id="launch-test-run">Launch test run</h3>
 <p>To launch a test run, perform the following steps:</p>
 <ol>
-<li>On the Test runs page, click the <strong>“Test launcher”</strong> button.</li>
+<li>On the <strong>Test runs</strong> page, click the <strong>“Test launcher”</strong> button.</li>
 <li>The <strong>Launcher wizard</strong> will be opened.</li>
-<li>Choose the necessary test launch from the list.</li>
-<li>Select the test automation server (you will see this option the first time you open a new repository).</li>
+<li>Choose the necessary test launcher from the list.</li>
+<li>Select the test automation server (you will see this option the first time you open a recently created repository).</li>
 <li>Select the type of a test run, browser name and its version. </li>
 <li>The section below is dedicated to parameterization of your automation code. Select a branch, environment, thread count, emails and other parameters.</li>
-<li>Add additional parameters by clicking the <strong>“Edit”</strong> button (pencil icon at the top of the wizard).</li>
+<li>Add additional parameters by clicking the <strong>“Edit”</strong> button (the pencil icon at the top of the wizard).</li>
 <li>Press <strong>“Launch”.</strong></li>
 </ol>
-<p>The test run will be in the compilation state.
+<p>The test run will be displayed in the state of compilation.
 After it switches to <strong>“In-progress”</strong> (marked blue), you can track the automation results in real time.</p>
 <p><img alt="Launch Test Run" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/launch_test_run.gif?raw=true" /></p>
 <h3 id="abort-test-run">Abort test run</h3>
 <p>To abort a test run <strong>“In-progress”</strong> (marked blue), perform the following steps:</p>
 <ol>
-<li>On the <strong>Test runs page</strong>, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
+<li>On the <strong>Test runs</strong> page, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
 <li>Press <strong>“Abort”.</strong></li>
 </ol>
 <p>The test run will become aborted (marked grey).</p>
@@ -976,7 +976,7 @@ After it switches to <strong>“In-progress”</strong> (marked blue), you can t
 <h3 id="remove-launcher">Remove launcher</h3>
 <p>To remove a launcher, perform the following steps:</p>
 <ol>
-<li>On the Test runs page, click the <strong>“Test launcher”</strong> button.</li>
+<li>On the <strong>Test runs</strong> page, click the <strong>“Test launcher”</strong> button.</li>
 <li>The <strong>Launcher wizard</strong> will be opened.</li>
 <li>Select the launcher you would like to remove.</li>
 <li>Click the <strong>“Edit”</strong> button (the gear icon) at the top of the wizard.</li>
@@ -985,8 +985,8 @@ After it switches to <strong>“In-progress”</strong> (marked blue), you can t
 <p>The launcher will be removed from the list.</p>
 <p><img alt="Remove Launcher" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/remove_launcher.gif?raw=true" /></p>
 <h2 id="test-run-results">Test run results</h2>
-<p>On the Test runs page, you can see all the test runs that have been executed recently. Moreover, view test run details, logs and video recordings, share test results with your colleagues.</p>
-<p>On the Test Runs page, for every test launch you can see:</p>
+<p>On the <strong>Test runs</strong> page, you can see all the test runs that have been executed recently. Moreover, view test run details, logs and video recordings, share test results with your colleagues.</p>
+<p>On the <strong>Test runs</strong> page, for every test launch you can see:</p>
 <ol>
 <li>Test suite name and type.</li>
 <li>Environment.</li>
@@ -997,7 +997,7 @@ After it switches to <strong>“In-progress”</strong> (marked blue), you can t
 </ol>
 <p><img alt="Test Runs Page View" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_page_view.png?raw=true" /></p>
 <h3 id="filter-test-runs">Filter test runs</h3>
-<p>At the top of the Test Runs page, you can filter the results by different criteria:</p>
+<p>At the top of the <strong>Test runs</strong> page, you can filter results by different criteria:</p>
 <ol>
 <li>Name.</li>
 <li>Reviewed/not reviewed.</li>
@@ -1016,12 +1016,12 @@ After it switches to <strong>“In-progress”</strong> (marked blue), you can t
 <p><img alt="Add Stored Filter" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/add_stored_filter.gif?raw=true" /></p>
 <h3 id="editdelete-stored-filter">Edit/delete stored filter</h3>
 <p>You can edit a created stored filter by clicking the pencil icon beside its name. Make the necessary changes and press <strong>"Save”.</strong></p>
-<p>To delete a stored filtes, click the pencil icon beside its name and press <strong>"Delete".</strong></p>
+<p>To delete a stored filter, click the pencil icon beside its name and press <strong>"Delete".</strong></p>
 <p><img alt="Edit and Delete Stored Filter" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/edit_and_delete_stored_filter.png?raw=true" /></p>
 <h3 id="view-test-run-results">View test run results</h3>
-<p>To analyze test run results, click on any item in the list. Or go to the <strong>Test run menu</strong> (3-dot button on the left) and click <strong>“Open”</strong> (the <strong>Test results page</strong> will be opened in a new window).</p>
+<p>To analyze test run results, click any item in the list. Or go to the <strong>Test run menu</strong> (the 3-dot button on the left) and click <strong>“Open”</strong> (the <strong>Test results</strong> page will be opened in a new window).</p>
 <p>Passed tests are marked green, and failed ones are red.</p>
-<p>For every test, you can see the following details:</p>
+<p><strong>For every test, you can see the following details:</strong></p>
 <ul>
 <li>Execution time</li>
 <li>Test owner</li>
@@ -1041,17 +1041,17 @@ After it switches to <strong>“In-progress”</strong> (marked blue), you can t
 <p>View all tests by returning to the <strong>“Plain”</strong> category.</p>
 <p><img alt="Filter and Group Test Results" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/filter_group_test_results.gif?raw=true" /></p>
 <h4 id="mark-test-as-passedfailed">Mark test as passed/failed</h4>
-<p>To mark a test as passed/failed, on the <strong>Test results page</strong>, click on the <strong>Test menu</strong> (3-dot button) and press <strong>“Mark test as passed/failed”.</strong></p>
+<p>To mark a test as passed/failed, on the <strong>Test results</strong> page, click <strong>Test menu</strong> (the 3-dot button) and press <strong>“Mark test as passed/failed”.</strong></p>
 <p><img alt="Mark Test as Passed or Failed" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/mark_test_a_passed_failed.gif?raw=true" /></p>
 <h4 id="link-known-issue-to-test">Link known issue to test</h4>
-<p>This option is available only for failed tests.</p>
-<p>On the <strong>Test results page</strong>, click on the <strong>Test menu</strong> (3-dot button) and press <strong>“Link issue”.</strong></p>
+<p>This option is only available for failed tests.</p>
+<p>On the <strong>Test results</strong> page, click <strong>Test menu</strong> (the 3-dot button) and press <strong>“Link issue”.</strong></p>
 <p>The red label will appear, the same one will be displayed in test statistics.</p>
 <p>After you link a known issue from Jira to a failed test, next time you get the same stack trace, the test run will be automatically identified and displayed with the same label.</p>
 <p><img alt="Link Known Issue to Test" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/link_known_issue.gif?raw=true" /></p>
 <h4 id="analyze-test-flow">Analyze test flow</h4>
-<p>To analyze the test flow and see additional information about it, click the <strong>“Details”</strong> button (eye icon).</p>
-<p>In the test log area, all the test steps are tracked.</p>
+<p>To analyze the test flow and see additional information about it, click <strong>“Details”</strong> (the eye icon).</p>
+<p>In the test logs area, all the test steps are tracked.</p>
 <p>Turn on the video to view the test flow with comments of what is going on right now in the text script. You can maximize the video to get a better view.</p>
 <p>Under the video player, get the idea of test platform/browser, actual test status, its date and duration.</p>
 <p><img alt="Analize Test Flow" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/view_test_flow.gif?raw=true" /></p>
@@ -1059,32 +1059,32 @@ After it switches to <strong>“In-progress”</strong> (marked blue), you can t
 <h4 id="copy-link">Copy link</h4>
 <p>To copy the link to test run results, perform the following steps.</p>
 <ol>
-<li>On the <strong>Test runs page</strong>, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
+<li>On the <strong>Test runs</strong> page, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
 <li>Press <strong>“Copy link”.</strong></li>
 </ol>
 <p><img alt="Copy link" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/copy_link_to_test_run.png?raw=true" /></p>
 <h4 id="send-as-email">Send as email</h4>
 <p>To send test results via email, perform the following steps:</p>
 <ol>
-<li>On the <strong>Test runs page</strong>, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
+<li>On the <strong>Test runs</strong> page, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
 <li>Press <strong>“Send as email”.</strong></li>
 <li>The <strong>“Email”</strong> popup will appear.</li>
 <li>Fill in the <strong>“Recipients”</strong> field (unlimited number of emails per time).</li>
-<li>Press the <strong>“Send”</strong> button.</li>
+<li>Press <strong>“Send”</strong>.</li>
 </ol>
 <p>A popup message <strong>“Email was successfully sent”</strong> will appear in the lower-right corner of the window. </p>
 <p><img alt="Send as Email" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_test_run_as_email.png?raw=true" /></p>
 <h4 id="export-to-html">Export to HTML</h4>
 <p>You can export test results to an HTML file and send it to your colleagues.</p>
 <p>For this, perform the following steps:
-1. On the <strong>Test runs page</strong>, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).
+1. On the <strong>Test runs</strong> page, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).
 2. Press <strong>“Export to HTML”.</strong>
 3. Save the document on your computer.</p>
 <p><img alt="Export to HTML" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/export_to_html.gif?raw=true" /></p>
 <h3 id="mark-test-run-as-reviewed">Mark test run as reviewed</h3>
 <p>To mark a test run as reviewed, perform the following steps:</p>
 <ol>
-<li>On the <strong>Test runs page</strong>, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
+<li>On the <strong>Test runs</strong> page, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
 <li>Press <strong>“Mark as reviewed”.</strong></li>
 <li>The <strong>“Comments”</strong> popup will appear.</li>
 <li>Provide a comment if necessary.</li>
@@ -1095,7 +1095,7 @@ After it switches to <strong>“In-progress”</strong> (marked blue), you can t
 <h3 id="rerunbuild-test">Rerun/build test</h3>
 <p>To rerun tests with the same parameters, perform the following steps:</p>
 <ol>
-<li>On the <strong>Test runs page</strong>, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
+<li>On the <strong>Test runs</strong> page, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
 <li>Press <strong>“Rerun”.</strong></li>
 <li>The <strong>“Rebuild testrun”</strong> popup will appear.</li>
 <li>Choose what tests you want to rerun: <strong>Only failures</strong> or <strong>All tests.</strong></li>
@@ -1104,7 +1104,7 @@ After it switches to <strong>“In-progress”</strong> (marked blue), you can t
 <p><img alt="Rerun Test" src="https://github.com/zebrunner/documentation/blob/master/docs/assets/images/rerun_test.gif?raw=true" /></p>
 <p>To run tests with additional parameters, perform the following steps:</p>
 <ol>
-<li>On the <strong>Test runs page</strong>, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
+<li>On the <strong>Test runs</strong> page, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
 <li>Press <strong>“Build now”.</strong></li>
 <li>The <strong>“Build now”</strong> popup will appear.</li>
 <li>Change the proposed parameters.</li>
@@ -1114,7 +1114,7 @@ After it switches to <strong>“In-progress”</strong> (marked blue), you can t
 <h3 id="delete-test-run">Delete test run</h3>
 <p>To delete a test run, perform the following steps:</p>
 <ol>
-<li>On the <strong>Test runs page</strong>, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
+<li>On the <strong>Test runs</strong> page, go to the <strong>Test run menu</strong> (click the 3-dot button on the left).</li>
 <li>Press <strong>“Delete”.</strong></li>
 <li>Submit the action.</li>
 </ol>
