@@ -1,22 +1,21 @@
 # Test sessions
 
-On the very first login to Zebrunner, you will be asked to select one of the two screen modes: **Integration via agent (Tests)** or **Selenium Hub (Tests).** This view will be displayed by default when you open the **Test runs/Test sessions page.**
+On the very first login to Zebrunner, you will be asked to select one of the two screen modes: **Integration via agent (Tests)** or **Selenium Hub (Sessions).** This view will be displayed by default when you open the **Test runs/Test sessions** page.
 
-If you skip this step, **Integration via agent (Tests)** will be enabled by default. You can switch between the 2 modes by using the control on the **Test runs/Test sessions page.** 
+If you skip this step, **Integration via agent (Tests)** will be enabled by default. You can switch between the 2 modes by using the control on the **Test runs/Test sessions** page.
 
 ![Test Runs and Test Sessions](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_and_sessions.png?raw=true)
 
-The **Test sessions page** allows you to view the list of test sessions executed recently and see detailed information about the testing process.
+The **Test sessions** page allows you to view the list of test sessions executed recently and see detailed information about the testing process.
 
-To access the **Test sessions page,** go to the side menu and click on the **"Test runs/Test sessions button"** (the play icon on the side menu). If the **Test sessions mode** is not set by default, click on the **“Tests/Sessions”** switch in the upper-right corner of the window.
+To access the **Test sessions page,** go to the side menu and click **"Test runs/Test sessions** (the play icon on the side menu). If the **Test sessions mode** is not set by default, click on the **“Tests/Sessions”** switch in the upper-right corner of the window.
 
 All the actions with test sessions are performed on this page.
 
 ![Test Sessions Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_sessions_page_access.gif?raw=true)
 
 ## View test session info
-
-On the **Test sessions page**, for every item you can see:
+On the **Test sessions** page, for every item you can see:
 
 * Test and build name
 * Test session status
@@ -24,14 +23,13 @@ On the **Test sessions page**, for every item you can see:
 * Execution time
 * Start date
 
-After you click a test session item, the **Test session results page** will be opened. 
+After you click a test session item, the **Test session results** page will be opened. 
 
 See the test logs captured from Selenium or Appium server in the area to the left, watch how the test session was executed in the video recording to the right, find the status of your test and other information (start date, duration, platform) in the area below.
 
 ![View Test Session Info](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_session_results.gif?raw=true)
 
 ## Generate access key
-
 To generate an access key, perform the following steps:
 
 1. On the **Test sessions page**, click the **“Access key”** button in the top-right corner of the page.
