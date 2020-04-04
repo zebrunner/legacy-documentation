@@ -10,14 +10,13 @@ To create a new project, perform the following steps:
 1. Navigate to the side menu and click the icon of your company at the top of the menu. Then press the **“+Add project"** button.
 2. The **“New Project”** popup will appear.
 3. Enter a name and description of a new project.
-4. Click the **"Create"** button.
+4. Click **"Create"**.
 
 The new project will appear in the list of projects.
 
 ![Create Project](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_project.gif?raw=true)
 
 ## Delete project
-
 To delete a project, perform the following steps:
 
 1. Navigate to the side menu and click the icon of your company at the top of the menu.
