@@ -2,7 +2,7 @@
 
 Dashboard in Zebrunner is a special page that displays widgets with main analytical info on your test results.
 
-A system General dashboard is displayed when you open Zebrunner (or press the **“Z”** button in the upper-left corner of the window). General is not editable – you cannot change its name or make it hidden.
+A system **General** dashboard is displayed when you open Zebrunner (or press the **“Z”** button in the upper-left corner of the window). General is not editable – you cannot change its name or make it hidden.
 
 In addition to General, you can create other dashboards to systemize widgets according to your needs.
 
@@ -22,7 +22,7 @@ To create a new dashboard, perform the following steps:
 1. Navigate to the side menu and click the **“Dashboards”** icon. Then press the **“+Add dashboard"** button.
 2. The **“New Dashboard”** popup will appear.
 3. Enter a name of a new dashboard.
-4. Click the **"Create"** button.
+4. Click **"Create"**.
 
 Now you can add widgets to the new dashboard.
 
@@ -35,7 +35,7 @@ To edit a dashboard, perform the following steps:
 2. Click the pencil icon in the upper-right corner of the window.
 3. The **“Edit Dashboard”** popup will appear.
 4. Make the necessary changes to the dashboard (except for General): edit the name of the dashboard; make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have the **“View hidden dashboards”** permission).
-5. Click the **“Save”** button.
+5. Click **“Save”**.
 
 The dashboard will be displayed with updates.
 
@@ -47,11 +47,11 @@ For example, you want to see your test results on a dashboard for the API platfo
 
 For this, perform the following steps:
 
-1. After the **“Edit Dashboard”** popup appears, enter the parameter **“PLATFORM”** (in uppercase) to the **“Key”** field and **“api”** to the **“Value”** field (in lowercase).
+1. After the **“Edit Dashboard”** popup appears, enter the parameter **“PLATFORM”** (in uppercase) to the **“Key”** field and **“api”** (in lowercase) to the **“Value”** field.
 2. Click **“Add”** and **“Save”**.
 3. Refresh the page.
 
-The dashboard will be displayed with updated results.
+The dashboard will be displayed with updates.
 
 **Note:** You can apply several parameters to a dashboard. But you can add only 1 value to a parameter.
 
@@ -62,7 +62,7 @@ Dashboards in Zebrunner can be visible or hidden.
 
 Hidden dashboards are useful when:
 
-* You need to test and adjust experimental widgets to dashboards;
+* You need to test and adjust experimental widgets to a dashboard;
 * You want to track your automation team performance on a special dashboard;
 * You’d like to hide a dashboard from other users.
 
@@ -81,7 +81,7 @@ To delete a dashboard, perform the following steps:
 4. Press **“Delete”.**
 5. Submit the action.
 
-The dashboard and attached widgets will be deleted.
+The dashboard and attached widgets will be removed.
 
 **Note:** You cannot delete the General dashboard.
 
