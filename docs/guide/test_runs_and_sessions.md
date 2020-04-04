@@ -8,7 +8,7 @@ If you skip this step, **Integration via agent (Test runs view)** will be enable
 
 The **Test runs page** allows you to launch tests from your GitHub repository, see detailed test results in real time and on a test run finish.
 
-To access the **Test runs** page, go to the side menu and click the **Test runs** icon. If the **Test runs mode** is not set by default, click on the **“Tests/Sessions”** switch in the upper-right corner of the window.
+To access the **Test runs** page, go to the side menu and click **"Test runs/Test sessions** (the play icon on the side menu). If the **Test runs mode** is not set by default, click on the **“Tests/Sessions”** switch in the upper-right corner of the window.
 
 All the actions with test runs are performed on this page.
 
