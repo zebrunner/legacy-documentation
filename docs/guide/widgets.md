@@ -1,6 +1,6 @@
 # Widgets
 
-Widgets contain special graphical control elements that analyze and display your automation test results overview and other data.
+Widgets are graphical control elements that analyse your automation test results, provide detailed test execution statistics and other important data.
 
 You can perform all actions with widgets listed below on the **"Dashboards"** page (on the side menu, click the **“Dashboards”** icon).
 
@@ -21,16 +21,16 @@ To create a new widget, perform the following steps:
 **If you want to add an existing widget:**
 
 * Go to the **“Choose from existing widgets”** section.
-* Click the widget you need and see its preview.
+* Select the widget you need and see its preview.
 * Press **"Add"**.
 
-**Note:** When you’ve added an existing widget to a dashboard, it will be marked with the word **"Added"** and a checkmark.
+**Note:** When you add an existing widget to a dashboard, it will be marked with the word **"Added"** and a checkmark.
 
 ![Create Existing Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_widget_from_existing.gif?raw=true)
 
 **If you want to choose a template for a widget:**
 
-  * In a **"Choose template"** section, click the widget you need and see its preview.
+  * In the **"Choose template"** section, select the widget you need and see its preview.
   * Press **“Next”**.
   * Set the necessary parameters. There are two types of them: basic and advanced ones. To see advanced parameters, click **“Show more”**.
   * Press **“Next”** and enter a name and description of the future widget.
@@ -43,11 +43,11 @@ The created widget will be automatically added to a dashboard.
 ## Edit widget
 To edit a widget, perform the following steps:
 
-1.	Click the **Widget menu** (3-dot button) in the upper-right corner of a widget.
+1.	Click the **Widget menu** (the 3-dot button) in the upper-right corner of a widget.
 2.	Press **“Edit widget”.**
 3.	The **Widget wizard** will be opened.
 4.	Apply the necessary changes in widget settings.
-5.	Click the **“Save”** button.
+5.	Click **“Save”**.
 
 The widget will be displayed with updates.
 
@@ -56,7 +56,7 @@ The widget will be displayed with updates.
 ## Remove widget from dashboard
 To remove a widget from a dashboard, perform the following steps:
 
-1.	Click the **Widget menu** (3-dot button) in the upper-right corner of a widget.
+1.	Click the **Widget menu** (the 3-dot button) in the upper-right corner of a widget.
 2.	Press **“Remove from dashboard”.**
 
 A widget will be removed from a dashboard, but the information will not be lost. You can create a widget with the same settings later, actual data will be displayed.
@@ -64,14 +64,14 @@ A widget will be removed from a dashboard, but the information will not be lost.
 ![Remove Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/remove_widget.gif?raw=true)
 
 ## Send widget by email
-To send a widget via email, perform the following steps:
+To send a widget by email, perform the following steps:
 
-1.	Click the **Widget menu** (3-dot button) in the upper-right corner of a widget.
+1.	Click the **Widget menu** (the 3-dot button) in the upper-right corner of a widget.
 2.	Press **“Send by email”.**
 3.	The **“Email”** popup will appear.
-4.	The **“Name”** and **“Text”** fields will be filled by default, still you can change them.
+4.	The **“Name”** and **“Text”** fields will be filled by default, still you can edit them.
 5.	Fill in the **“Recipients”** field (unlimited number of emails per time).
-6.	Press the **“Send”** button.
+6.	Press **“Send”**.
 
 A pop-up message **“Email was successfully sent”** will appear in the lower-right corner of the window.
 
@@ -83,7 +83,7 @@ To change a widget placement within a dashboard area, perform the following step
 1.	Press the **“Widget placement”** button in the upper-right corner of the window.
 2.	Drag and drop a widget to the selected position.
 3.	When you move the widget to the area with enough space, the system marks this place with a dotted line.
-4.	Press the **“Apply”** button.
+4.	Press **“Apply”**.
 
 ![Change Widget Placement](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/change_widget_placement.gif?raw=true)
 
@@ -94,6 +94,6 @@ Every widget has a basic size. To resize a widget, perform the following steps:
 1.	Press the **“Widget placement”** button in the upper-right corner of the window.
 2.	Hover the mouse cursor over the widget. The system will show resizing arrows.
 3.	Grab the arrow with the cursor and drag it to the desired width and height.
-4.	Press the **“Apply”** button.
+4.	Press **“Apply”**.
 
 ![Resize Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/resize_widget.gif?raw=true) 
