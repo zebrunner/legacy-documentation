@@ -10,6 +10,8 @@ You can perform all actions with widgets listed below on the **"Dashboards"** pa
 * Change widget placement or resize widgets
 * Send widgets via email
 
+![Widgets](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboard_page.png?raw=true)
+
 ## Create widget
 To create a new widget, perform the following steps:
 
