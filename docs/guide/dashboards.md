@@ -53,7 +53,7 @@ For this, perform the following steps:
 
 The dashboard will be displayed with updates.
 
-**Note:** You can apply several parameters to a dashboard. But you can add only 1 value to a parameter.
+**Note:** You can apply several parameters (keys) to a dashboard. But you can add only 1 value to a parameter.
 
 ![Key and Value](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/key_and_value.png?raw=true)
 
