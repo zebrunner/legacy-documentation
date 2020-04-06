@@ -226,6 +226,7 @@ A popup message **“Email was successfully sent”** will appear in the lower-r
 You can export test results to an HTML file and send it to your colleagues.
 
 For this, perform the following steps:
+
 1. On the **Test runs** page, go to the **Test run menu** (click the 3-dot button on the left).
 2. Press **“Export to HTML”.**
 3. Save the document on your computer.
