@@ -8,7 +8,7 @@ If you skip this step, **Integration via agent (Tests)** will be enabled by defa
 
 The **Test sessions** page allows you to view the list of test sessions executed recently and see detailed information about the testing process.
 
-To access the **Test sessions page,** go to the side menu and click **"Test runs/Test sessions** (![Test Sessions Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_icon.png?raw=true) icon on the side menu). If the **Test sessions mode** is not set by default, click on the **“Tests/Sessions”** switch in the upper-right corner of the window.
+To access the **Test sessions page,** go to the side menu and click **"Test runs/Test sessions"** (![Test Sessions Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_icon.png?raw=true) icon on the side menu). If the **Test sessions mode** is not set by default, click on the **“Tests/Sessions”** switch in the upper-right corner of the window.
 
 All the actions with test sessions are performed on this page.
 
