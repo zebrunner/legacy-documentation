@@ -22,7 +22,7 @@ By default, **Admins** have the following permissions:
 ## Users
 **Users** page shows all the users registered in the company.
 
-To access the **Users** page, navigate to the side menu and click the **“User management”** icon, then press **“Users”.**
+To access the **Users** page, navigate to the side menu and click the **“User management”** icon ![User Management](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/user_management_icon.png?raw=true), then press **“Users”.**
 
 **Note:** You need the **“View users”** permission to see this page!
 
@@ -45,7 +45,7 @@ Go to the **User settings** (the 3-dot button beside the user name), press **“
 ## Invitations
 You can invite users to your company on the **Invitations** page.
 
-To access the **Invitations** page, navigate to the side menu and click the **“User management”** icon, then press **“Invitations”.**
+To access the **Invitations** page, navigate to the side menu and click the **“User management”** icon ![User Management](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/user_management_icon.png?raw=true), then press **“Invitations”.**
 
 **Note:** You need the **“Invite users”** permission to see this page!
 
@@ -58,7 +58,7 @@ Use the Search field at the top of the page to find the necessary invitation.
 ### Send invitation
 To send an invitation to a user, perform the following steps:
 
-1. Press the **“+Invite user"** button.
+1. On the **Users** or **Invitations** page, press **“+Invite user"** in the upper-right corner of the window.
 2. The **“Invite users”** popup will appear.
 3. Choose a group to add user(s): **Admins** or **Users.**
 4. Enter the email(s). You can enter an unlimited number of emails at a time.
