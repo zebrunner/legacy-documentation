@@ -4,19 +4,19 @@
 
 To create a workspace in Zebrunner, press **Free trial** on [Zebrunner](https://zebrunner.com) and perform the following steps.
 
-### Step 1. Provide your company details
+### Step 1. Provide company details
 
 Enter your email and name of your future company in Zebrunner.
 
 Press **Next.**
 
-### Step 2. Verify your email
+### Step 2. Verify email
 
 A verification PIN will be sent to your email. Enter it to the specified field.
 
 Press **Next.**
 
-### Step 3. Connect your GitHub account 
+### Step 3. Connect GitHub account 
 
 This step is optional. 
 
@@ -28,7 +28,7 @@ If you skip this step, no repository will be added. You can add a repository lat
 
 Press **Finish.**
 
-### Step 4. Verification and signing in
+### Step 4. Verification and login
 
 In a few minutes you will receive a verification email with details on your new workspace and a link to the generated GitHub repository - it is a sample automation project represented by a general TestNG Java automation structure and a Carina-based framework inside.
 
