@@ -15,7 +15,7 @@ To change your profile photo, click the profile icon at the top of the page, upl
 ![Change Profile Photo](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/change_profile_photo.png?raw=true)
 
 ### Access Token
-In the Access token area, copy **Service URL** and **Access token** (you can generate it by clicking the lifecycle button) to get integrated with Zebrunner (for more information, visit the [**"Test sessions"**](test_sessions.md) page of our guide).
+In the Access token area, copy **Service URL** and **Access token** (you can generate it by clicking the lifecycle button) to get integrated with Zebrunner (for more information, visit [**"Test sessions"**](test_sessions.md)).
 
 ![Access Token](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/profile_access_token.gif?raw=true)
 
