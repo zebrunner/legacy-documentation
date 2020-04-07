@@ -2,7 +2,7 @@
 
 Widgets are graphical control elements that analyse your automation test results, provide detailed test execution statistics and other important data.
 
-You can perform all actions with widgets listed below on the **"Dashboards"** page (on the side menu, click the **“Dashboards”** icon).
+You can perform all actions with widgets listed below on the **"Dashboards"** page (on the side menu, click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true)).
 
 * Create widgets
 * Edit widgets
@@ -82,7 +82,7 @@ A pop-up message **“Email was successfully sent”** will appear in the lower-
 ## Change widget placement 
 To change a widget placement within a dashboard area, perform the following steps:
 
-1.	Press the **“Widget placement”** button in the upper-right corner of the window.
+1.	Press the **“Widget placement”** button ![Widget Placement](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/widget_placement_icon.png?raw=true) in the upper-right corner of the window.
 2.	Drag and drop a widget to the selected position.
 3.	When you move the widget to the area with enough space, the system marks this place with a dotted line.
 4.	Press **“Apply”**.
@@ -93,7 +93,7 @@ To change a widget placement within a dashboard area, perform the following step
  
 Every widget has a basic size. To resize a widget, perform the following steps:
 
-1.	Press the **“Widget placement”** button in the upper-right corner of the window.
+1.	Press the **“Widget placement”** button ![Widget Placement](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/widget_placement_icon.png?raw=true) in the upper-right corner of the window.
 2.	Hover the mouse cursor over the widget. The system will show resizing arrows.
 3.	Grab the arrow with the cursor and drag it to the desired width and height.
 4.	Press **“Apply”**.
