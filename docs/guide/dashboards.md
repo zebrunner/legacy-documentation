@@ -19,7 +19,7 @@ In addition to General, you can create other dashboards to systemize widgets acc
 ## Create dashboard
 To create a new dashboard, perform the following steps:
 
-1. Navigate to the side menu and click the **“Dashboards”** icon. Then press the **“+Add dashboard"** button.
+1. Navigate to the side menu and click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true). Then press the **“+Add dashboard"** button.
 2. The **“New Dashboard”** popup will appear.
 3. Enter a name of a new dashboard.
 4. Click **"Create"**.
@@ -31,8 +31,8 @@ Now you can add widgets to the new dashboard.
 ## Edit dashboard
 To edit a dashboard, perform the following steps:
 
-1. Navigate to the side menu and click the **“Dashboards”** icon. Choose the necessary dashboard.
-2. Click the pencil icon in the upper-right corner of the window.
+1. Navigate to the side menu and click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true). Choose the necessary dashboard.
+2. Click ![Edit Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/edit_dashboard_icon.png?raw=true) in the upper-right corner of the window.
 3. The **“Edit Dashboard”** popup will appear.
 4. Make the necessary changes to the dashboard (except for General): edit the name of the dashboard; make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have the **“View hidden dashboards”** permission).
 5. Click **“Save”**.
@@ -75,8 +75,8 @@ To make a dashboard hidden, open **“New dashboard”** or **“Edit dashboard�
 ## Delete dashboard
 To delete a dashboard, perform the following steps:
 
-1. Navigate to the side menu and click the **“Dashboards”** icon. Choose the necessary dashboard.
-2. Click the pencil icon in the upper-right corner of the window.
+1. Navigate to the side menu and click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true). Choose the necessary dashboard.
+2. Click ![Delete Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/edit_dashboard_icon.png?raw=true) in the upper-right corner of the window.
 3. The **“Edit Dashboard”** popup will appear.
 4. Press **“Delete”.**
 5. Submit the action.
@@ -90,8 +90,8 @@ The dashboard and attached widgets will be removed.
 ## Send dashboard via email
 To send a dashboard via email, perform the following steps:
 
-1. Navigate to the side menu and click the **“Dashboards”** icon. Choose the necessary dashboard.
-2. Click the arrow icon in the upper-right corner of the window.
+1. Navigate to the side menu and click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true). Choose the necessary dashboard.
+2. Click ![Send by Email](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_dashboard_by_email_icon.png?raw=true) in the upper-right corner of the window.
 3. The **“Email”** popup will appear.
 4. The **“Name”** and **“Text”** fields are filled by default, still you can change them.
 5. Fill in the **“Recipients”** field (unlimited number of emails per time).
@@ -104,7 +104,7 @@ A popup message **“Email was successfully sent”** will appear in the lower-r
 ## Search for dashboard
 To search for a dashboard, perform the following steps:
 
-1. Navigate to the side menu and click the **“Dashboards”** icon.
+1. Navigate to the side menu and click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true).
 2. Go to the **“Search”** field and enter the name/part of the name of a dashboard.
 3. Choose the necessary dashboard.
 
@@ -113,7 +113,7 @@ To search for a dashboard, perform the following steps:
 ## Change the order of dashboards
 To change the order of dashboards, perform the following steps:
 
-1. Navigate to the side menu and click the **“Dashboards”** icon.
+1. Navigate to the side menu and click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true).
 2. Grab a dashboard with a hand cursor by clicking the six-dot button.
 3. Drag and drop the chosen dashboard to the necessary place.
 
