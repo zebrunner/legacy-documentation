@@ -2,7 +2,7 @@
 
 Dashboard in Zebrunner is a special page that displays widgets with main analytical info on your test results.
 
-A system **General** dashboard is displayed when you open Zebrunner (or press the **“Z”** button in the upper-left corner of the window). General is not editable – you cannot change its name or make it hidden.
+A system **General** dashboard is displayed when you open Zebrunner (or press ![Zebrunner](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/zebrunner_icon.png?raw=true) in the upper-left corner of the window). General is not editable – you cannot change its name or make it hidden.
 
 In addition to General, you can create other dashboards to systemize widgets according to your needs.
 
@@ -34,7 +34,7 @@ To edit a dashboard, perform the following steps:
 1. Navigate to the side menu and click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true). Choose the necessary dashboard.
 2. Click ![Edit Dashboard](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/edit_dashboard_icon.png?raw=true) in the upper-right corner of the window.
 3. The **“Edit Dashboard”** popup will appear.
-4. Make the necessary changes to the dashboard (except for General): edit the name of the dashboard; make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have the **“View hidden dashboards”** permission).
+4. Make the necessary changes to the dashboard (except for General): edit the name of the dashboard; make the dashboard visible or hidden by clicking the **“Hidden”** switch (only if you have the **“View hidden dashboards”** permission)(read more [here](https://zebrunner.github.io/documentation/guide/dashboards/#hidden-dashboards)).
 5. Click **“Save”**.
 
 The dashboard will be displayed with updates.
@@ -114,7 +114,7 @@ To search for a dashboard, perform the following steps:
 To change the order of dashboards, perform the following steps:
 
 1. Navigate to the side menu and click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true).
-2. Grab a dashboard with a hand cursor by clicking the six-dot button.
+2. Grab a dashboard with a hand cursor by clicking ![Change the order](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_six_dot.png?raw=true).
 3. Drag and drop the chosen dashboard to the necessary place.
 
 Dashboards will be displayed in a new order.
