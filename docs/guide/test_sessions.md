@@ -34,7 +34,7 @@ To generate an access key, perform the following steps:
 
 1. On the **Test sessions page**, click the **“Access key”** button in the top-right corner of the page.
 2. The **Access key popup** will appear.
-3. At the top of the popup, in the **"Access URL"** field, generate a new access token (click the lifecycle icon) and copy it (click the icon beside).
+3. At the top of the popup, in the **"Access URL"** field, generate a new access token clicking ![Generate Access Token](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_generate_access_key.png?raw=true) and copy it by clicking ![Generate Access Token](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_copy_access_key.png?raw=true).
 4. In the area below, generate the capabilities required to run tests in your language (switch between Java, C#, Go, Ruby, Python, PHP, Webdriver.io).
 5. Select the platform (Android/Web), application, browser name and version, video resolution.
 6. All the changes will be immediately applied in the code area below.
