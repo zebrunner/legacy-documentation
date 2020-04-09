@@ -38,7 +38,7 @@ To remove a repository, perform the following steps:
 
 1. On the **Test runs** page, click the **“Test launcher”** button.
 2. The **Launcher wizard** will be opened.
-3. Click the gear button beside the repository name.
+3. Click ![Remove Repository](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_gear_white.png?raw=true) beside the repository name.
 4. Press **“Delete repo”** at the bottom of the wizard.
 
 The repository will be removed from the list.
@@ -50,11 +50,11 @@ To create a test launcher manually, perform the following steps:
 
 1. On the **Test runs** page, click the **“Test launcher”** button.
 2. The **Launcher wizard** will be opened.
-3. Click the **“+”** button beside the repository name.
+3. Click ![Create Launcher](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_plus.png?raw=true) beside the repository name.
 4. Create a new template specifying the template name, choosing the platform and the template, adding or removing arguments.
 5. Press **“Add”.**
 
-The new launcher template will be added with a tag **“Manual creation” (“M”).**
+The new launcher template will be added with a tag **“Manual creation”** ![Manual Creation](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_manual_creation.png?raw=true)
 
 ![Create Launcher Manually](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_launcher_manually.gif?raw=true)
 
@@ -67,7 +67,7 @@ To launch a test run, perform the following steps:
 4. Select the test automation server (you will see this option the first time you open a recently created repository).
 5. Select the type of a test run, browser name and its version. 
 6. The section below is dedicated to parameterization of your automation code. Select a branch, environment, thread count, emails and other parameters.
-7. Add additional parameters by clicking the **“Edit”** button (the pencil icon at the top of the wizard).
+7. Add additional parameters by clicking the **“Edit”** button ![Launch Test Run](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_gear_grey.png?raw=true) at the top of the wizard.
 8. Press **“Launch”.**
 
 The test run will be displayed in the state of compilation.
@@ -78,7 +78,7 @@ After it switches to **“In-progress”** (marked blue), you can track the auto
 ### Abort test run
 To abort a test run **“In-progress”** (marked blue), perform the following steps:
 
-1. On the **Test runs** page, go to the **Test run menu** (click the 3-dot button on the left).
+1. On the **Test runs** page, go to the **Test run settings** ![Test Run Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true).
 2. Press **“Abort”.**
 
 The test run will become aborted (marked grey).
@@ -91,7 +91,7 @@ To remove a launcher, perform the following steps:
 1. On the **Test runs** page, click the **“Test launcher”** button.
 2. The **Launcher wizard** will be opened.
 3. Select the launcher you would like to remove.
-4. Click the **“Edit”** button (the gear icon) at the top of the wizard.
+4. Click the **“Edit”** button ![Edit](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_gear_grey.png?raw=true) at the top of the wizard.
 5. Press **“Delete”.**
 
 The launcher will be removed from the list.
