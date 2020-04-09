@@ -15,7 +15,7 @@ All the actions with test runs are performed on this page.
 ![Test Runs Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_page.gif?raw=true)
 
 ## Test launches
-To start running tests, you need to add your GitHub repository. Or get a sample test automation project to your GitHub account while creating your company in Zebrunner (read more in [Getting Started](https://zebrunner.github.io/documentation/getting_started).
+To start running tests, you need to add your GitHub repository. Or get a sample test automation project to your GitHub account while creating your company in Zebrunner (read more in [Getting Started](https://zebrunner.github.io/documentation/getting_started)).
 
 ### Add repository
 To add a new repository, perform the following steps:
