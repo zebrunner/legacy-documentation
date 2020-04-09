@@ -45,7 +45,7 @@ The created widget will be automatically added to a dashboard.
 ## Edit widget
 To edit a widget, perform the following steps:
 
-1.	Click the **Widget menu** (the 3-dot button) in the upper-right corner of a widget.
+1.	Click the **Widget settings** ![Widget Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) in the upper-right corner of a widget.
 2.	Press **“Edit widget”.**
 3.	The **Widget wizard** will be opened.
 4.	Apply the necessary changes in widget settings.
@@ -58,7 +58,7 @@ The widget will be displayed with updates.
 ## Remove widget from dashboard
 To remove a widget from a dashboard, perform the following steps:
 
-1.	Click the **Widget menu** (the 3-dot button) in the upper-right corner of a widget.
+1.	Click the **Widget settings** ![Widget Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) in the upper-right corner of a widget.
 2.	Press **“Remove from dashboard”.**
 
 A widget will be removed from a dashboard, but the information will not be lost. You can create a widget with the same settings later, actual data will be displayed.
@@ -68,7 +68,7 @@ A widget will be removed from a dashboard, but the information will not be lost.
 ## Send widget by email
 To send a widget by email, perform the following steps:
 
-1.	Click the **Widget menu** (the 3-dot button) in the upper-right corner of a widget.
+1.	Click the **Widget settings** ![Widget Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) in the upper-right corner of a widget.
 2.	Press **“Send by email”.**
 3.	The **“Email”** popup will appear.
 4.	The **“Name”** and **“Text”** fields will be filled by default, still you can edit them.
