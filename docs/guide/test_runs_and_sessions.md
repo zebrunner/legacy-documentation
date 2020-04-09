@@ -15,7 +15,7 @@ All the actions with test runs are performed on this page.
 ![Test Runs Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_page.gif?raw=true)
 
 ## Test launches
-To start running tests, you need to add your GitHub repository. Or choose our Carina demo repository to try out the Zebrunner testing process (the option is available while you are creating your company).
+To start running tests, you need to add your GitHub repository. Or get a sample test automation project to your GitHub account while creating your company in Zebrunner (read more in [Getting Started](https://zebrunner.github.io/documentation/getting_started).
 
 ### Add repository
 To add a new repository, perform the following steps:
@@ -101,7 +101,7 @@ The launcher will be removed from the list.
 ## Test run results
 On the **Test runs** page, you can see all the test runs that have been executed recently. Moreover, view test run details, logs and video recordings, share test results with your colleagues.
 
-On the **Test runs** page, for every test launch you can see:
+On the **Test runs** page, for every test run you can see:
 
 1. Test suite name and type.
 2. Environment.
@@ -139,12 +139,12 @@ After you are done, press **“Create”.**
 ### Edit/delete stored filter
 You can edit a created stored filter by clicking the pencil icon beside its name. Make the necessary changes and press **"Save”.**
 
-To delete a stored filter, click the pencil icon beside its name and press **"Delete".**
+To delete a stored filter, click ![Pencil Icon](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_edit_filter.png?raw=true) beside its name and press **"Delete".**
 
 ![Edit and Delete Stored Filter](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/edit_and_delete_stored_filter.png?raw=true)
 
 ### View test run results
-To analyze test run results, click any item in the list. Or go to the **Test run menu** (the 3-dot button on the left) and click **“Open”** (the **Test results** page will be opened in a new window).
+To analyze test run results, click any item in the list. Or go to the **Test run settings** ![Test Run Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) and click **“Open”** (the **Test results** page will be opened in a new window).
 
 Passed tests are marked green, and failed ones are red.
 
@@ -173,14 +173,14 @@ View all tests by returning to the **“Plain”** category.
 ![Filter and Group Test Results](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/filter_group_test_results.gif?raw=true)
 
 #### Mark test as passed/failed
-To mark a test as passed/failed, on the **Test results** page, click **Test menu** (the 3-dot button) and press **“Mark test as passed/failed”.**
+To mark a test as passed/failed, on the **Test results** page, click **Test settings** ![Test Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot_red.png?raw=true) and press **“Mark test as passed/failed”.**
 
 ![Mark Test as Passed or Failed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/mark_test_a_passed_failed.gif?raw=true)
 
 #### Link known issue to test
 This option is only available for failed tests.
 
-On the **Test results** page, click **Test menu** (the 3-dot button) and press **“Link issue”.**
+On the **Test results** page, click **Test settings** ![Test Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot_red.png?raw=true) and press **“Link issue”.**
 
 The red label will appear, the same one will be displayed in test statistics.
 
@@ -189,7 +189,7 @@ After you link a known issue from Jira to a failed test, next time you get the s
 ![Link Known Issue to Test](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/link_known_issue.gif?raw=true)
 
 #### Analyze test flow
-To analyze the test flow and see additional information about it, click **“Details”** (the eye icon).
+To analyze the test flow and see additional information about test results, click **“Details”** ![Details](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_eye.png?raw=true).
 
 In the test logs area, all the test steps are tracked.
 
@@ -204,7 +204,7 @@ Under the video player, get the idea of test platform/browser, actual test statu
 #### Copy link
 To copy the link to test run results, perform the following steps.
 
-1. On the **Test runs** page, go to the **Test run menu** (click the 3-dot button on the left).
+1. On the **Test runs** page, go to the **Test run settings** ![Test Run Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) on the left.
 2. Press **“Copy link”.**
 
 ![Copy link](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/copy_link_to_test_run.png?raw=true)
@@ -212,7 +212,7 @@ To copy the link to test run results, perform the following steps.
 #### Send as email
 To send test results via email, perform the following steps:
 
-1. On the **Test runs** page, go to the **Test run menu** (click the 3-dot button on the left).
+1. On the **Test runs** page, go to the **Test run settings** ![Test Run Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) on the left.
 2. Press **“Send as email”.**
 3. The **“Email”** popup will appear.
 4. Fill in the **“Recipients”** field (unlimited number of emails per time).
@@ -227,7 +227,7 @@ You can export test results to an HTML file and send it to your colleagues.
 
 For this, perform the following steps:
 
-1. On the **Test runs** page, go to the **Test run menu** (click the 3-dot button on the left).
+1. On the **Test runs** page, go to the **Test run settings** ![Test Run Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) on the left.
 2. Press **“Export to HTML”.**
 3. Save the document on your computer.
 
@@ -236,20 +236,20 @@ For this, perform the following steps:
 ### Mark test run as reviewed
 To mark a test run as reviewed, perform the following steps:
 
-1. On the **Test runs** page, go to the **Test run menu** (click the 3-dot button on the left).
+1. On the **Test runs** page, go to the **Test run settings** ![Test Run Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) on the left.
 2. Press **“Mark as reviewed”.**
 3. The **“Comments”** popup will appear.
 4. Provide a comment if necessary.
 5. Press **“Mark as reviewed”.**
 
-A mark **“R”** will appear beside the test run name.
+A mark ![Reviewed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_marked_reviewed.png?raw=true) will appear beside the test run name, together with ![Reviewed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_comment.png?raw=true) if any comment was provided.
 
 ![Mark Test Run as Reviewed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/mark_test_as_reviewed.gif?raw=true)
 
 ### Rerun/build test
 To rerun tests with the same parameters, perform the following steps:
 
-1. On the **Test runs** page, go to the **Test run menu** (click the 3-dot button on the left).
+1. On the **Test runs** page, go to the **Test run settings** ![Test Run Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) on the left.
 2. Press **“Rerun”.**
 3. The **“Rebuild testrun”** popup will appear.
 4. Choose what tests you want to rerun: **Only failures** or **All tests.**
@@ -259,7 +259,7 @@ To rerun tests with the same parameters, perform the following steps:
 
 To run tests with additional parameters, perform the following steps:
 
-1. On the **Test runs** page, go to the **Test run menu** (click the 3-dot button on the left).
+1. On the **Test runs** page, go to the **Test run settings** ![Test Run Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) on the left.
 2. Press **“Build now”.**
 3. The **“Build now”** popup will appear.
 4. Change the proposed parameters.
@@ -270,7 +270,7 @@ To run tests with additional parameters, perform the following steps:
 ### Delete test run
 To delete a test run, perform the following steps:
 
-1. On the **Test runs** page, go to the **Test run menu** (click the 3-dot button on the left).
+1. On the **Test runs** page, go to the **Test run settings** ![Test Run Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) on the left.
 2. Press **“Delete”.**
 3. Submit the action.
 
