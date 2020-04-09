@@ -1,7 +1,7 @@
 # User profile
 
 ## Edit personal information
-To navigate to the **User Profile** page, go to the side menu and click the profile icon in the lower-left corner of the window. Choose the **“Account & Profile”** section.
+To navigate to the **User Profile** page, go to the side menu and click **Profile** icon ![Profile](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_profile_logo.png?raw=true) in the lower-left corner of the window. Choose the **“Account & Profile”** section.
 
 The **User Account & Profile** page contains several elements.
 
@@ -15,7 +15,7 @@ To change your profile photo, click the profile icon at the top of the page, upl
 ![Change Profile Photo](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/change_profile_photo.png?raw=true)
 
 ### Access Token
-In the Access token area, copy **Service URL** and **Access token** (you can generate it by clicking the lifecycle button) to get integrated with Zebrunner (for more information, visit [**"Test sessions"**](test_sessions.md)).
+In the Access token area, generate an **Access token** (click ![Generate Token](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_generate_access_key.png?raw=true)), copy it together with the **Service URL** (click ![Copy](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_copy_access_key.png?raw=true)) to get integrated with Zebrunner (for more information, visit [**"Test sessions"**](test_sessions.md)).
 
 ![Access Token](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/profile_access_token.gif?raw=true)
 
