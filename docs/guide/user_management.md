@@ -38,7 +38,7 @@ To access the **Users** page, navigate to the side menu and click the **“User 
 * Source (LDAP, internal) integration ldap must be turned on
 * Registration date.
 
-Go to the **User settings** (the 3-dot button beside the user name), press **“Performance”**, and you will be redirected to a personal dashboard displaying the performance of a chosen user.
+Go to the **User settings** ![User Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) and press **“Performance”**. You will be redirected to a personal dashboard displaying the performance of a chosen user.
 
 ![User Performance](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/users_management_performance.png?raw=true)
 
@@ -69,9 +69,9 @@ Invitations will be sent to the specified emails. Users need to accept the invit
 ![Send Invitation](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_invitation.gif?raw=true)
 
 ### Manage invitations
-Invitation status **ACCEPTED**: If you click on the invitation’s menu and select **“Profile”**, you will be redirected to the **Users** page.
+Invitation status **ACCEPTED**: If you click ![Invitation Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) and select **“Profile”**, you will be redirected to the **Users** page.
 
-Invitation status **PENDING**: By clicking on the invitation’s menu, you can:
+Invitation status **PENDING**: By clicking ![Invitation Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true), you can:
 
 * Copy the link and share it with the user
 * Resend the invitation
