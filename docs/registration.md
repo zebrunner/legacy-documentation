@@ -2,17 +2,23 @@
 
 To create a workspace in Zebrunner, press **Free trial** on [Zebrunner](https://zebrunner.com) and perform the following steps.
 
+![Free Trial](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/free_trial.png?raw=true)
+
 ## Step 1. Provide company details
 
 Enter your email and name of your future company in Zebrunner.
 
 Press **Next.**
 
+![Step 1](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_one.png?raw=true)
+
 ## Step 2. Verify email
 
 A verification PIN will be sent to your email. Enter it to the specified field.
 
 Press **Next.**
+
+![Step 2](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_two.gif?raw=true)
 
 ## Step 3. Connect GitHub account 
 
@@ -26,6 +32,8 @@ If you skip this step, no repository will be added. You can add a repository lat
 
 Press **Finish.**
 
+![Step 3](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_three.gif?raw=true)
+
 ## Step 4. Verification and login
 
 In a few minutes you will receive a verification email with details on your new workspace and a link to the generated GitHub repository - it is a sample automation project represented by a general TestNG Java automation structure and a Carina-based framework inside.
@@ -33,6 +41,8 @@ In a few minutes you will receive a verification email with details on your new 
 In the email, press **Let’s start.**
 
 Provide your username and enter a secure password, press **Sign in**, then **Login.**
+
+![Step 4](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_four.gif?raw=true)
 
 # Tests vs Sessions
 You will be redirected to the starting page where you will be asked to select one of the two screen modes: **Integration via agent (Tests)** or **Selenium Hub (Sessions).** This view will be displayed by default when you open the **Test runs/Test sessions** page.
