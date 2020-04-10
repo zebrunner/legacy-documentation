@@ -6,8 +6,8 @@ repo_name: Zebrunner
 nav:
   - Overview: index.md
   - Getting started:
-    - Part 1: getting_started.md
-    - Part 2: getting_started.md
+    - Registration: registration.md
+    - Components overview: components_overview.md
   - User guide:
     - User profile: guide/user_profile.md
     - Dashboards: guide/dashboards.md
