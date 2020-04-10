@@ -45,6 +45,7 @@ Provide your username and enter a secure password, press **Sign in**, then **Log
 ![Step 4](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_four.gif?raw=true)
 
 # Tests vs Sessions
+
 You will be redirected to the starting page where you will be asked to select one of the two screen modes: **Integration via agent (Tests)** or **Selenium Hub (Sessions).** This view will be displayed by default when you open the **Test runs/Test sessions** page.
 
 If you skip this step, **Integration via agent (Test runs view)** will be enabled by default. You can easily switch between the 2 modes by using the control on the Test runs/Test sessions page.
