@@ -1,10 +1,12 @@
 # Registration
 
+## Getting started
+
 To create a workspace in Zebrunner, press **Free trial** on [Zebrunner](https://zebrunner.com) and perform the following steps.
 
 ![Free Trial](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/free_trial.png?raw=true)
 
-## Step 1. Provide company details
+### Step 1. Provide company details
 
 Enter your email and name of your future company in Zebrunner.
 
@@ -12,7 +14,7 @@ Press **Next.**
 
 ![Step 1](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_one.png?raw=true)
 
-## Step 2. Verify email
+### Step 2. Verify email
 
 A verification PIN will be sent to your email. Enter it to the specified field.
 
@@ -20,7 +22,7 @@ Press **Next.**
 
 ![Step 2](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_two.gif?raw=true)
 
-## Step 3. Connect GitHub account 
+### Step 3. Connect GitHub account 
 
 This step is optional. 
 
@@ -34,7 +36,7 @@ Press **Finish.**
 
 ![Step 3](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_three.gif?raw=true)
 
-## Step 4. Verification and login
+### Step 4. Verification and login
 
 In a few minutes you will receive a verification email with details on your new workspace and a link to the generated GitHub repository - it is a sample automation project represented by a general TestNG Java automation structure and a Carina-based framework inside.
 
@@ -44,7 +46,7 @@ Provide your username and enter a secure password, press **Sign in**, then **Log
 
 ![Step 4](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_four.gif?raw=true)
 
-# Tests vs Sessions
+## Tests vs Sessions
 
 You will be redirected to the starting page where you will be asked to select one of the two screen modes: **Integration via agent (Tests)** or **Selenium Hub (Sessions).** This view will be displayed by default when you open the **Test runs/Test sessions** page.
 
@@ -52,7 +54,7 @@ If you skip this step, **Integration via agent (Test runs view)** will be enable
 
 ![Test Runs and Test Sessions](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_and_sessions.png?raw=true)
 
-## Tests: Integration via agent
+### Tests: Integration via agent
 
 If you choose this mode, you need to integrate Zebrunner Agent into your automation framework. 
 
@@ -67,7 +69,7 @@ The agent allows to track test results in real time, apply detailed configuratio
 
 This mode requires integration via the client library that you can find in our regional GitHub repositories.
 
-## Sessions: Selenium Hub
+### Sessions: Selenium Hub
 
 This is the easiest way to run tests in Zebrunner infrastructure. You need to generate an access token and configure your tests to use Zebrunner Selenium URL.
 
