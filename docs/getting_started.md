@@ -22,7 +22,7 @@ This step is optional.
 
 If you want to get a sample test automation project to your GitHub account, specify your organization and the name of the future sample project (you can enter only characters [a-zA-Z], digits [0-9], underscore, dash and dot (_, -, .)).
 
-Make the repository private, if needed by putting a check below.
+Make the repository private, if needed, by putting a check below.
 
 If you skip this step, no repository will be added. You can add a repository later on the **Test runs** page.
 
