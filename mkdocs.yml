@@ -13,7 +13,7 @@ nav:
     - Dashboards: guide/dashboards.md
     - Widgets: guide/widgets.md
     - Projects: guide/projects.md
-    - Test runs: guide/test_runs_and_sessions.md
+    - Test runs: guide/test_runs.md
     - Test sessions: guide/test_sessions.md
     - User management: guide/user_management.md
     - Integrations: guide/integrations.md
