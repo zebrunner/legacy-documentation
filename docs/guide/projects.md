@@ -1,6 +1,6 @@
 # Projects
 
-Use the **“Projects”** tab to switch between the projects you work on. Once you’ve selected the necessary project, you are able to launch separate test runs for it. All the data in **Dashboards** and **Widgets** will be displayed accordingly.
+Use the **“Projects”** tab (![Projects](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_company_logo.png?raw=true) icon on the side menu) to switch between the projects you work on. Once you’ve selected the necessary project, you are able to launch separate test runs for it. All the data in **Dashboards** and **Widgets** will be displayed accordingly.
 
 **Note:** The UNKNOWN project is the default one. You cannot delete it.
 
