@@ -19,7 +19,7 @@ In addition to General, you can create other dashboards to systemize widgets acc
 ## Create dashboard
 To create a new dashboard, perform the following steps:
 
-1. Navigate to the side menu and click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true). Then press the **“+Add dashboard"** button.
+1. Navigate to the side menu and click the **“Dashboards”** icon ![Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_icon.png?raw=true). Then press the **“+Add dashboard"** button. 
 2. The **“New Dashboard”** popup will appear.
 3. Enter a name of a new dashboard.
 4. Click **"Create"**.
