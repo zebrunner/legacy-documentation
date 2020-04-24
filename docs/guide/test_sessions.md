@@ -41,6 +41,6 @@ To generate an access key, perform the following steps:
 7. Specify the test name and build name, if needed, in the field called **“name”**, separate them with a # sign.
 8. Click **“Copy”.** 
 
-The capabilities will be copied into your clipboard, now you can place them in your favourite id and run your tests in our environment.
+The capabilities will be copied into your clipboard, now you can place them in your favorite id and run your tests in our environment.
 
 ![Generate Access Key](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/generate_access_key.gif?raw=true)
