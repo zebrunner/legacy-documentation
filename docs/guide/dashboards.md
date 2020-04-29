@@ -70,7 +70,7 @@ Hidden dashboards are useful when:
 
 To make a dashboard hidden, open **“New dashboard”** or **“Edit dashboard”** popup and turn on the switch **“Hidden”**.
 
-![Hidden Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/hidden_dashboards.png?raw=true)
+![Hidden Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/hidden_dashboard.png?raw=true)
 
 ## Delete dashboard
 To delete a dashboard, perform the following steps:
