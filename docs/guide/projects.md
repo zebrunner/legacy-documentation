@@ -14,7 +14,7 @@ To create a new project, perform the following steps:
 
 The new project will appear in the list of projects.
 
-![Create Project](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_project.gif?raw=true)
+![Create Project](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_a_project.gif?raw=true)
 
 ## Delete project
 To delete a project, perform the following steps:
@@ -29,7 +29,7 @@ To delete a project, perform the following steps:
  
 The project will be removed.
 
-![Delete Project](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/delete_project.gif?raw=true)
+![Delete Project](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/delete_a_project.gif?raw=true)
 
 ## Change company logo
 To change your company logo (this icon opens the **“Projects”** tab), perform the following steps:
