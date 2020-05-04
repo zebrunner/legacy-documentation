@@ -10,7 +10,7 @@ You can perform all actions with widgets listed below on the **"Dashboards"** pa
 * Change widget placement or resize widgets
 * Send widgets via email
 
-![Widgets](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboard_page.png?raw=true)
+![Widgets](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/dashboards_page.png?raw=true)
 
 ## Create widget
 To create a new widget, perform the following steps:
@@ -63,7 +63,7 @@ To remove a widget from a dashboard, perform the following steps:
 
 A widget will be removed from a dashboard, but the information will not be lost. You can create a widget with the same settings later, actual data will be displayed.
 
-![Remove Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/remove_widget.gif?raw=true)
+![Remove Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/remove_widget_from_dashboard.gif?raw=true)
 
 ## Send widget by email
 To send a widget by email, perform the following steps:
