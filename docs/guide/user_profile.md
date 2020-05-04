@@ -17,7 +17,7 @@ To change your profile photo, click the profile icon at the top of the page, upl
 ### Access Token
 In the Access token area, generate an **Access token** (click ![Generate Token](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_generate_access_key.png?raw=true)), copy it together with the **Service URL** (click ![Copy](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_copy_access_key.png?raw=true)) to get integrated with Zebrunner (for more information, visit [**"Test sessions"**](test_sessions.md)).
 
-![Access Token](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/profile_access_token.gif?raw=true)
+![Access Token](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/profile_access_key.gif?raw=true)
 
 ### Personal data
 In this area, you can see your personal information: **Username, Email, First and Last Name.**  
@@ -31,7 +31,7 @@ After you make the necessary changes, click **“Save”**.
 ### Preferences
 Here you can choose the default tests view - **Test runs** or **Test sessions.** After you set the preference, click **“Save”.**
 
-![Test Preferences](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_preferences.gif?raw=true)
+![Test Preferences](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/profile_preferences.gif?raw=true)
 
 ### Change password
 To change a password, enter your current password, then enter a new one. A password must contain from 5 to 50 characters which can be letters, numbers, special characters.
