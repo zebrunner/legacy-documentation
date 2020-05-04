@@ -55,7 +55,7 @@ On the **Invitations** page, you can see the list of all invitations sent in you
 
 Use the Search field at the top of the page to find the necessary invitation.
 
-### Send invitation
+### Send invitation 
 To send an invitation to a user, perform the following steps:
 
 1. On the **Users** or **Invitations** page, press **“+Invite user"** in the upper-right corner of the window.
