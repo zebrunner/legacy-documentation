@@ -28,7 +28,7 @@ To create a new widget, perform the following steps:
 
 **Note:** When you add an existing widget to a dashboard, it will be marked with the word **"Added"** and a checkmark.
 
-![Create Existing Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_widget_from_existing.gif?raw=true)
+![Create Existing Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_widget_from_existing.gif?raw=true) 
 
 **If you want to choose a template for a widget:**
 
