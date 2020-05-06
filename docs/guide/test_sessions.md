@@ -12,7 +12,7 @@ To access the **Test sessions page,** go to the side menu and click **"Test runs
 
 All the actions with test sessions are performed on this page.
 
-![Test Sessions Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_sessions_page_access.gif?raw=true)
+![Test Sessions Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_sessions_page.gif?raw=true)
 
 ## View test session info
 On the **Test sessions** page, for every item you can see:
@@ -27,7 +27,7 @@ After you click a test session item, the **Test session results** page will be o
 
 See the test logs captured from Selenium or Appium server in the area to the left, watch how the test session was executed in the video recording to the right, find the status of your test and other information (start date, duration, platform) in the area below.
 
-![View Test Session Info](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_session_results.gif?raw=true)
+![View Test Session Info](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_sessions_results.gif?raw=true)
 
 ## Generate access key
 To generate an access key, perform the following steps:
@@ -43,4 +43,4 @@ To generate an access key, perform the following steps:
 
 The capabilities will be copied into your clipboard, now you can place them in your favorite id and run your tests in our environment.
 
-![Generate Access Key](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/generate_access_key.gif?raw=true)
+![Generate Access Key](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/generate_access_key.gif?raw=true) 
