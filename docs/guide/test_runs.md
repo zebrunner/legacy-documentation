@@ -2,7 +2,7 @@
 
 On the very first login to Zebrunner, you will be asked to select one of the two screen modes: **Integration via agent (Tests)** or **Selenium Hub (Sessions).** This view will be displayed by default when you open the **Test runs/Test sessions** page.
 
-If you skip this step, **Integration via agent (Test runs view)** will be enabled by default. You can easily switch between the 2 modes by using the control on the **Test runs/Test sessions** page.
+If you skip this step, **Integration via agent (Test runs view)** will be enabled by default. You can easily switch between the 2 modes by using the control on the **Test runs/Test sessions** page. 
 
 ![Test Runs and Test Sessions](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_runs_and_sessions.png?raw=true)
 
@@ -175,7 +175,7 @@ View all tests by returning to the **“Plain”** category.
 #### Mark test as passed/failed
 To mark a test as passed/failed, on the **Test results** page, click **Test settings** ![Test Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot_red.png?raw=true) and press **“Mark test as passed/failed”.**
 
-![Mark Test as Passed or Failed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/mark_test_a_passed_failed.gif?raw=true)
+![Mark Test as Passed or Failed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/mark_test_as_passed_or_failed.gif?raw=true)
 
 #### Link known issue to test
 This option is only available for failed tests.
@@ -189,7 +189,7 @@ After you link a known issue from Jira to a failed test, next time you get the s
 ![Link Known Issue to Test](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/link_known_issue.gif?raw=true)
 
 #### Analyze test flow
-To analyze the test flow and see additional information about test results, click **“Details”** ![Details](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_eye.png?raw=true).
+To analyze the test flow and see additional information about test results, click on any test on the **Test results** page.
 
 In the test logs area, all the test steps are tracked.
 
@@ -244,7 +244,7 @@ To mark a test run as reviewed, perform the following steps:
 
 A mark ![Reviewed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_marked_reviewed.png?raw=true) will appear beside the test run name, together with ![Reviewed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_comment.png?raw=true) if any comment was provided.
 
-![Mark Test Run as Reviewed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/mark_test_as_reviewed.gif?raw=true)
+![Mark Test Run as Reviewed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/mark_test_run_as_reviewed.gif?raw=true)
 
 ### Rerun/build test
 To rerun tests with the same parameters, perform the following steps:
