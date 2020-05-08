@@ -31,7 +31,7 @@ To add a new repository, perform the following steps:
 
 Multiple launchers will be created for API, web, and mobile tests.
 
-![Add Repository](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/add_repository.gif?raw=true)
+![Add Repository](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/add_a_repository.gif?raw=true)
 
 ### Remove repository
 To remove a repository, perform the following steps: 
@@ -134,7 +134,7 @@ You can create up to 30 new parameter sets at once.
 
 After you are done, press **“Create”.**
 
-![Add Stored Filter](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/add_stored_filter.gif?raw=true)
+![Add Stored Filter](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/add_a_stored_filter.gif?raw=true)
 
 ### Edit/delete stored filter
 You can edit a created stored filter by clicking the pencil icon beside its name. Make the necessary changes and press **"Save”.**
@@ -231,7 +231,7 @@ For this, perform the following steps:
 2. Press **“Export to HTML”.**
 3. Save the document on your computer.
 
-![Export to HTML](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/export_to_html.gif?raw=true)
+![Export to HTML](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/export_results_to_html.gif?raw=true)
 
 ### Mark test run as reviewed
 To mark a test run as reviewed, perform the following steps:
@@ -265,7 +265,7 @@ To run tests with additional parameters, perform the following steps:
 4. Change the proposed parameters.
 5. Press **“Build now”.**
 
-![Build Test Run](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/build_test_run.gif?raw=true)
+![Build Test Run](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/build_a_test_run.gif?raw=true)
 
 ### Delete test run
 To delete a test run, perform the following steps:
