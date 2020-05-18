@@ -2,7 +2,7 @@
 
 Dashboard in Zebrunner is a special page that displays widgets with main analytical info on your test results.
 
-A system **General** dashboard is displayed when you open Zebrunner (or press ![Zebrunner](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/zebrunner_icon.png?raw=true) in the upper-left corner of the window). General is not editable – you cannot change its name or make it hidden.
+A system **General** dashboard is displayed when you open Zebrunner (or press ![Zebrunner](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/zebrunner_icon.png?raw=true) in the upper-left corner of the window). General is not editable – you cannot change its name, make it hidden, delete it or add widgets.
 
 In addition to General, you can create other dashboards to systemize widgets according to your needs.
 
