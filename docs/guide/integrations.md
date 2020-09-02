@@ -2,7 +2,8 @@
 
 
 ### CI / Automation Server:
-TBD
+CI(continuous integration) server for run maven, gradle job.
+If you want another CI tools, please ask [asistance](https://t.me/zebrunner)
 
 ### Test Environment Provider:
 The main perpouse of Test Environment Provider to execute tests on different selenium/appium hubs using Test Launcher feature.
