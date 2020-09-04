@@ -15,6 +15,7 @@ There is possibility to add integration for more than one Jenkins:
    * API_TOKEN_OR_PASSWORD - Enter value of api token or password for jenkins
    * FOLDER - Name of your organization 
    * JOB_URL_VISIBILITY: TRUE - If you want to have jenkins url for test run in reporting ;  FALSE - If you don't need url for test run in reporting
+   
       Example of Test run with JOB_URL_VISIBILITY: TRUE:
      ![Integration](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/job_url_visibility.png?raw=true)
     
