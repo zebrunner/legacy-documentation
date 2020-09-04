@@ -8,7 +8,16 @@ If you want another CI tools, please ask [asistance](https://t.me/zebrunner)
 
 There is possibility to add integration for more than one Jenkins:
 * Click **"+ New Integration"** button and add Jenkins.
-* Populate valid values for each field and Save
+* Populate valid values for each field
+   * NAME
+   * URL
+   * USER
+   * API_TOKEN_OR_PASSWORD
+   * FOLDER
+   * JOB_URL_VISIBILITY: TRUE - If you want to have jenkins url for test run in reporting ;  FALSE - If you don't need url for test run in reporting
+    Add image here
+    
+* Save changes
 
 ### Notification Service
 
