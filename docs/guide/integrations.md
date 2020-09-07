@@ -1,4 +1,4 @@
-# Integrations[Draft]
+# Integrations[Draft].
 
 ### Access Management:
 TBD
@@ -22,8 +22,12 @@ There is possibility to add integration for more than one Jenkins:
  * Save changes
 
 ### Notification Service
+There is possibility to configure integration with Slack or Microsoft Teams.
+Webhook Url is required to configure integration with Slack.
+Webhook is required to configure integration with Microsoft Teams.
 
 ### Test Case Management
+Integration with Test Case Management systems help to get real-time insights into your testing progress to optimize test plans. 
 
 ### Test Environment Provider:
 The main perpouse of Test Environment Provider to execute tests on different selenium/appium hubs using Test Launcher feature.
