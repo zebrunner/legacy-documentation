@@ -9,7 +9,7 @@ There is possibility to add integration for more than one Jenkins:
  * Populate valid values for each field
    * NAME - Enter name of your Jenkins
    * URL - Enter url of your runing jenkins e.g. http://xx.xxx.xxx.xxx:80/jenkins
-   * USER - Enter user name for your jenkins
+   * USER - Enter user name of your jenkins
    * API_TOKEN_OR_PASSWORD - Enter value of api token or password for jenkins
    * FOLDER - Name of your organization 
    * JOB_URL_VISIBILITY: TRUE - If you want to have jenkins url for test run in reporting ;  FALSE - If you don't need url for test run in reporting
