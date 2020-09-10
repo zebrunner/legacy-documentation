@@ -18,21 +18,22 @@ To create a new widget, perform the following steps:
 1. Click the **"+ NEW WIDGET"** button in the top-right corner of the **“Dashboards”** page.
 2. The **Widget wizard** will be opened.
 
-**You have 2 options:** choose a template for a widget or go to the **“Choose from existing widgets”** section with a set of predefined widgets. To simplify the process, fill in the search field with a name or part of a widget name. 
+**You have 2 options:**  choose widget **"Templates"** or **"Existing widgets”.** To simplify the process, fill in the search field with a name or part of a widget name.
 
 **If you want to add an existing widget:**
 
-* Go to the **“Choose from existing widgets”** section.
-* Select the widget you need and see its preview.
+* Click **“Existing widgets”**.
+* Select the widget you need.
 * Press **"Add"**.
 
-**Note:** When you add an existing widget to a dashboard, it will be marked with the word **"Added"** and a checkmark.
+**Note:** When you add an existing widget to a dashboard, it will be marked with the word **"Added"** and a checkmark in the list of widgets.
 
 ![Create Existing Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_widget_from_existing.gif?raw=true) 
 
 **If you want to choose a template for a widget:**
 
-  * In the **"Choose template"** section, select the widget you need and see its preview.
+  * Click **"Templates"**.
+  * Select the widget you need with its preview.
   * Press **“Next”**.
   * Set the necessary parameters. There are two types of them: basic and advanced ones. To see advanced parameters, click **“Show more”**.
   * Press **“Next”** and enter a name and description of the future widget.
