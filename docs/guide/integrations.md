@@ -4,7 +4,6 @@
 Jenkins is used as default CI server for running Maven and Gradle jobs.
 If you need other CI tools, please ask for [support](https://t.me/zebrunner)
 
-There is a possibility to add integrations for more than one Jenkins:
 <ul>
 <li> Click the **"+ New Integration"** button and add Jenkins
 <li> Populate the valid values for each field:
@@ -18,6 +17,7 @@ There is a possibility to add integrations for more than one Jenkins:
     </ul>
 <li> Save changes
 </ul>
+> There is a possibility to add integrations for more than one Jenkins
 Example of a Test run with JOB_URL_VISIBILITY= TRUE:
 
 ![Integration](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/job_url_visibility.png?raw=true)
