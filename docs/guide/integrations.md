@@ -1,7 +1,7 @@
 # Integrations[Draft].
 
 ### CI / Automation Server:
-CI (continuous integration) server is used for running Maven and Gradle jobs.
+Jenkins is used as default CI server for running Maven and Gradle jobs.
 If you need other CI tools, please ask for [support](https://t.me/zebrunner)
 
 There is a possibility to add integrations for more than one Jenkins:
