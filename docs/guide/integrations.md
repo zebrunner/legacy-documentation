@@ -18,7 +18,8 @@ There is a possibility to add integrations for more than one Jenkins:
     </ul>
 <li> Save changes
 </ul>
-Example of a Test run with JOB_URL_VISIBILITY: TRUE:
+Example of a Test run with JOB_URL_VISIBILITY= TRUE:
+
 ![Integration](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/job_url_visibility.png?raw=true)
 
 ### Notification Service
