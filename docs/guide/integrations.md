@@ -1,4 +1,4 @@
-# Integrations[Draft2].
+# Integrations[Draft3].
 
 ### CI / Automation Server:
 CI (continuous integration) server is used for running Maven and Gradle jobs.
@@ -37,22 +37,30 @@ Integration with Test Case Management systems helps to get real-time insights of
     <li> URL - Enter the URL of your Testrail project
     </ul>
 </ul>    
-  
- * Configure Qtest:
-   * URL - Enter the URL of your Qtest project
-   
- * Configure Jira:
-   * URL- Enter the URL of your Jira instance, e.g. https://mycompany.atlassian.net
-   * USER - Enter your Jira user account
-   * PASSWORD - Enter the password to your Jira account
-   * CLOSED_STATUS - Comma-separated list of closed Jira ticket states, for example, done, closed.  
+ <ul> 
+ <li> Configure Qtest:
+     <ul>
+     <li> URL - Enter the URL of your Qtest project
+     </ul>
+</ul> 
+<ul>   
+<li> Configure Jira:
+    <ul>
+    <li> URL- Enter the URL of your Jira instance, e.g. https://mycompany.atlassian.net
+    <li> USER - Enter your Jira user account
+    <li> PASSWORD - Enter the password to your Jira account
+    <li> CLOSED_STATUS - Comma-separated list of closed Jira ticket states, for example, done, closed.
+    </ul>
+</ul> 
    
 ### Test Environment Provider:
 The main purpose of Test Environment Provider is to execute tests on different Selenium/Appium hubs using the Test Launcher feature.
+
  ![Launcher](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/launcher.png?raw=true)
 
 What do you need to use it?
 <ul>
 <li> Get the URL and credentials from your hub provider, activate and save the appropriate provider settings.
-</ul>    
+</ul>
+
  ![Selenium Hub](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/selenium.png?raw=true)
