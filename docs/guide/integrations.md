@@ -34,22 +34,22 @@ Integration with Test Case Management systems helps to get real-time insights of
 <ul>
 <li> Configure Testrail:
     <ul>
-    <li> URL - Enter the URL of your Testrail project
+    <li type="circle"> URL - Enter the URL of your Testrail project
     </ul>
 </ul>    
  <ul> 
  <li> Configure Qtest:
      <ul>
-     <li> URL - Enter the URL of your Qtest project
+     <li type="circle"> URL - Enter the URL of your Qtest project
      </ul>
 </ul> 
 <ul>   
 <li> Configure Jira:
     <ul>
-    <li> URL- Enter the URL of your Jira instance, e.g. https://mycompany.atlassian.net
-    <li> USER - Enter your Jira user account
-    <li> PASSWORD - Enter the password to your Jira account
-    <li> CLOSED_STATUS - Comma-separated list of closed Jira ticket states, for example, done, closed.
+    <li type="circle"> URL- Enter the URL of your Jira instance, e.g. https://mycompany.atlassian.net
+    <li type="circle"> USER - Enter your Jira user account
+    <li type="circle"> PASSWORD - Enter the password to your Jira account
+    <li type="circle"> CLOSED_STATUS - Comma-separated list of closed Jira ticket states, for example, done, closed.
     </ul>
 </ul> 
    
