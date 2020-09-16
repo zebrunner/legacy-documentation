@@ -1,4 +1,4 @@
-# Integrations[Draft1].
+# Integrations[Draft2].
 
 ### CI / Automation Server:
 CI (continuous integration) server is used for running Maven and Gradle jobs.
@@ -24,28 +24,35 @@ Example of a Test run with JOB_URL_VISIBILITY: TRUE:
 ### Notification Service
 In additions to default email notification it is possible to send test result reports via Slack and/or Microsoft Team.
 For this, configure an integration with Slack or Microsoft Team:
- * Webhook URL is required to configure an integration with Slack. You can ask for assistance from your Slack administrator or generate a Webhook URL by yourself.
- * Webhook is required to configure an integration with Microsoft Teams. You can ask for assistance from your Microsoft Team administrator or generate a Webhook by yourself.
+<ul>
+<li> Webhook URL is required to configure an integration with Slack. You can ask for assistance from your Slack administrator or generate a Webhook URL by yourself.
+<li> Webhook is required to configure an integration with Microsoft Teams. You can ask for assistance from your Microsoft Team administrator or generate a Webhook by yourself.
+</ul>
 
 ### Test Case Management
 Integration with Test Case Management systems helps to get real-time insights of your testing progress to optimize the test plans.
-
-* Configure Testrail:
-  * URL - Enter the URL of your Testrail project
+<ul>
+<li> Configure Testrail:
+    <ul>
+    <li> URL - Enter the URL of your Testrail project
+    </ul>
+</ul>    
   
-* Configure Qtest:
-  * URL - Enter the URL of your Qtest project
+ * Configure Qtest:
+   * URL - Enter the URL of your Qtest project
    
-* Configure Jira:
-  * URL- Enter the URL of your Jira instance, e.g. https://mycompany.atlassian.net
-  * USER - Enter your Jira user account
-  * PASSWORD - Enter the password to your Jira account
-  * CLOSED_STATUS - Comma-separated list of closed Jira ticket states, for example, done, closed.  
+ * Configure Jira:
+   * URL- Enter the URL of your Jira instance, e.g. https://mycompany.atlassian.net
+   * USER - Enter your Jira user account
+   * PASSWORD - Enter the password to your Jira account
+   * CLOSED_STATUS - Comma-separated list of closed Jira ticket states, for example, done, closed.  
    
 ### Test Environment Provider:
 The main purpose of Test Environment Provider is to execute tests on different Selenium/Appium hubs using the Test Launcher feature.
  ![Launcher](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/launcher.png?raw=true)
 
 What do you need to use it?
-  * Get the URL and credentials from your hub provider, activate and save the appropriate provider settings.
+<ul>
+<li> Get the URL and credentials from your hub provider, activate and save the appropriate provider settings.
+</ul>    
  ![Selenium Hub](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/selenium.png?raw=true)
