@@ -11,12 +11,10 @@ There is a possibility to add integrations for more than one Jenkins:
   * URL - Enter the URL of your running Jenkins, e.g. http://xx.xxx.xxx.xxx:80/jenkins
   * USER - Enter the username of your Jenkins
   * API_TOKEN_OR_PASSWORD - Enter the value of the API token or password to Jenkins
-  * FOLDER - Enter the name of your organization 
+  * FOLDER - Enter the name of your organization
   * JOB_URL_VISIBILITY: TRUE - If you need a Jenkins URL of a test run in the reporting;  FALSE - If you don't need an URL of a test run in the reporting
-   
       Example of a Test run with JOB_URL_VISIBILITY: TRUE:
      ![Integration](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/job_url_visibility.png?raw=true)
-    
 * Save changes
 
 ### Notification Service
@@ -42,11 +40,8 @@ Integration with Test Case Management systems helps to get real-time insights of
    
 ### Test Environment Provider:
 The main purpose of Test Environment Provider is to execute tests on different Selenium/Appium hubs using the Test Launcher feature.
-
 ![Launcher](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/launcher.png?raw=true)
 
 What do you need to use it?
-* Get the URL and credentials from your hub provider, activate and save the appropriate provider settings. 
-
+* Get the URL and credentials from your hub provider, activate and save the appropriate provider settings.
 ![Selenium Hub](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/selenium.png?raw=true)
-
