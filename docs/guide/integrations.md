@@ -20,7 +20,7 @@ There is a possibility to add integrations for more than one Jenkins:
  * Save changes
 
 ### Notification Service
-It is possible to send test result reports via email, Slack or Microsoft Team.
+In additions to default email notification it is possible to send test result reports via Slack and/or Microsoft Team.
 For this, configure an integration with Slack or Microsoft Team:
    * Webhook URL is required to configure an integration with Slack. You can ask for assistance from your Slack administrator or generate a Webhook URL by yourself.
    * Webhook is required to configure an integration with Microsoft Teams. You can ask for assistance from your Microsoft Team administrator or generate a Webhook by yourself.
@@ -28,17 +28,17 @@ For this, configure an integration with Slack or Microsoft Team:
 ### Test Case Management
 Integration with Test Case Management systems helps to get real-time insights of your testing progress to optimize the test plans.
 
- * Configure Jira:
-   * URL- Enter the URL of your Jira instance, e.g. https://mycompany.atlassian.net
-   * USER - Enter your Jira user account
-   * PASSWORD - Enter the password to your Jira account
-   * CLOSED_STATUS - Comma-separated list of closed Jira ticket states, for example, done, closed. 
-  
  * Configure Testrail:
    * URL - Enter the URL of your Testrail project
   
  * Configure Qtest:
    * URL - Enter the URL of your Qtest project
+   
+ * Configure Jira:
+   * URL- Enter the URL of your Jira instance, e.g. https://mycompany.atlassian.net
+   * USER - Enter your Jira user account
+   * PASSWORD - Enter the password to your Jira account
+   * CLOSED_STATUS - Comma-separated list of closed Jira ticket states, for example, done, closed.  
    
 ### Test Environment Provider:
 The main purpose of Test Environment Provider is to execute tests on different Selenium/Appium hubs using the Test Launcher feature.
