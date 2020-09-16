@@ -1,4 +1,4 @@
-# Integrations[Draft3].
+# Integrations[Draft].
 
 ### CI / Automation Server:
 CI (continuous integration) server is used for running Maven and Gradle jobs.
