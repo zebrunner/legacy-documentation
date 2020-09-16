@@ -17,10 +17,12 @@ If you need other CI tools, please ask for [support](https://t.me/zebrunner)
     </ul>
 <li> Save changes
 </ul>
-> There is a possibility to add integrations for more than one Jenkins
+
 Example of a Test run with JOB_URL_VISIBILITY= TRUE:
 
 ![Integration](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/job_url_visibility.png?raw=true)
+
+> There is a possibility to add integrations for more than one Jenkins
 
 ### Notification Service
 In additions to default email notification it is possible to send test result reports via Slack and/or Microsoft Team.
