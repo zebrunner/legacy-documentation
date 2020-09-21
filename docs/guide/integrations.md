@@ -2,7 +2,7 @@
 
 ### CI / Automation Server:
 CI (continuous integration) server is used for running Maven and Gradle jobs.
-If you need other CI tools, please ask for [support](https://t.me/zebrunner)
+If you need other CI tools, please ask for [support](https://t.me/zebrunner).
 
 There is a possibility to add integrations for more than one Jenkins:
  * Click the **"+ New Integration"** button and add Jenkins
@@ -17,10 +17,10 @@ There is a possibility to add integrations for more than one Jenkins:
       Example of a Test run with JOB_URL_VISIBILITY: TRUE:
      ![Integration](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/job_url_visibility.png?raw=true)
     
- * Save changes
+ * Save changes.
 
 ### Notification Service
-In additions to default email notification it is possible to send test result reports via Slack and/or Microsoft Team.
+In addition to the default email notification, it is possible to send test result reports via Slack and/or Microsoft Team.
 For this, configure an integration with Slack or Microsoft Team:
    * Webhook URL is required to configure an integration with Slack. You can ask for assistance from your Slack administrator or generate a Webhook URL by yourself.
    * Webhook is required to configure an integration with Microsoft Teams. You can ask for assistance from your Microsoft Team administrator or generate a Webhook by yourself.
