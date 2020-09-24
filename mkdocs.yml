@@ -5,9 +5,7 @@ repo_name: Zebrunner
 # Page tree
 nav:
   - Overview: index.md
-  - Getting started:
-    - Registration: registration.md
-    - Components overview: components_overview.md
+  - Registration: registration.md
   - User guide:
     - User profile: guide/user_profile.md
     - Dashboards: guide/dashboards.md
