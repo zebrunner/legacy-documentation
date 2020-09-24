@@ -1,3 +1,0 @@
-# Components overview (DRAFT)
-
-TBD
