@@ -5,7 +5,7 @@ Jenkins is used as default CI server for running Maven and Gradle jobs.
 If you need other CI tools, please ask for [support](https://t.me/zebrunner)
 
 <ul>
-<li> Click the **"+ New Integration"** button and add Jenkins
+<li> Click the *"+ New Integration"* button and add Jenkins
 <li> Populate the valid values for each field:
     <ul>
     <li type="circle"> NAME - Enter the name of your Jenkins
