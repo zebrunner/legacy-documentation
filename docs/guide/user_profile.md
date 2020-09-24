@@ -5,7 +5,7 @@ To navigate to the **User Profile** page, go to the side menu and click **Profil
 
 The **User Account & Profile** page contains several elements.
 
-![User Profile](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/user_profile.png?raw=true)
+![User Profile](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/user_profile_page.png?raw=true)
 
 ### Profile photo and information
 This area shows your profile photo, first and last name (is edited in **Personal data** area), your role in the application. 
