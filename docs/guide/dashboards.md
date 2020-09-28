@@ -43,7 +43,7 @@ The dashboard will be displayed with updates.
 
 **Optional:** If you have **“Modify widgets”** and **“Modify dashboards”** permissions, you can edit a dashboard by applying a certain parameter to all the widgets on a dashboard (instead of setting it for each widget manually).
 
-For example, you want to see your test results on a dashboard for the API platform only.
+For example, you want to see your test results on a dashboard for the Chrome API only.
 
 For this, perform the following steps:
 
@@ -68,9 +68,9 @@ Hidden dashboards are useful when:
 
 **Note:** You need the **“View hidden dashboards”** permission to make a dashboard hidden. Otherwise, you will not see this option.
 
-To make a dashboard hidden, open **“New dashboard”** or **“Edit dashboard”** popup and turn on the switch **“Hidden”**.
+To make a dashboard hidden, open **“New dashboard”** or **“Edit dashboard”** popup and click the  on the ![Hidden Dashboard Icon](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/hidden_dashboard_icon.png?raw=true) icon.
 
-![Hidden Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/hidden_dashboard.png?raw=true)
+![Hidden Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/hidden_dashboard.gif?raw=true)
 
 ## Delete dashboard
 To delete a dashboard, perform the following steps:
