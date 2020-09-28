@@ -1,50 +1,23 @@
-# Registration
+# Getting started
 
-## Getting started
+## Registration
 
-To create a workspace in Zebrunner, press **Free trial** on [Zebrunner](https://zebrunner.com) and perform the following steps.
+We offer new users a free 30-day trial with premium features and opportunities.
 
-![Free Trial](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/free_trial.png?raw=true)
+To create your free organization workspace in Zebrunner, go to our [website](https://zebrunner.com) and fill in the registration form. 
 
-### Step 1. Provide company details
+Enter your organization name, full name and business email, and press **Create free workspace.**
+Please, enter the valid information, as you will not be able to change it later.
 
-Enter your email and name of your future company in Zebrunner.
+![Registration](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/registration.png?raw=true)
 
-Press **Next.**
+## Sign-in
 
-![Step 1](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_one.png?raw=true)
+After filling in the form, you will receive an automated email with a link to your newly created workspace. 
 
-### Step 2. Verify email
+Set a user name and password, log in, and feel free to run your first test with Zebrunner!
 
-A verification PIN will be sent to your email. Enter it to the specified field.
-
-Press **Next.**
-
-![Step 2](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_two.gif?raw=true)
-
-### Step 3. Connect GitHub account 
-
-This step is optional. 
-
-If you want to get a sample test automation project to your GitHub account, specify your organization and the name of the future sample project (you can enter only characters [a-zA-Z], digits [0-9], underscore, dash and dot (_, -, .)).
-
-Make the repository private, if needed by putting a check below.
-
-If you skip this step, no repository will be added. You can add a repository later on the **Test runs** page.
-
-Press **Finish.**
-
-![Step 3](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_three.gif?raw=true)
-
-### Step 4. Verification and login
-
-In a few minutes you will receive a verification email with details on your new workspace and a link to the generated GitHub repository - it is a sample automation project represented by a general TestNG Java automation structure and a Carina-based framework inside.
-
-In the email, press **Let’s start.**
-
-Provide your username and enter a secure password, press **Sign in**, then **Login.**
-
-![Step 4](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/step_four.gif?raw=true)
+![Sign-in](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/sign_in.png?raw=true)
 
 ## Tests vs Sessions
 
