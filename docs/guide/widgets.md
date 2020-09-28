@@ -41,7 +41,7 @@ To create a new widget, perform the following steps:
 
 The created widget will be automatically added to a dashboard.
 
-![Create Existing Widget](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_widget_from_templates.gif?raw=true)
+![Create Widget from Templates](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_widget_from_templates.gif?raw=true)
 
 ## Edit widget
 To edit a widget, perform the following steps:
