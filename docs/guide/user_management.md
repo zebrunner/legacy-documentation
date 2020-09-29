@@ -26,17 +26,18 @@ To access the **Users** page, navigate to the side menu and click the **“User 
 
 **Note:** You need the **“View users”** permission to see this page!
 
-![Users Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/users_management_page.png?raw=true) 
+![Users Page](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/user_management_page.png?raw=true) 
 
 **On the Users page, for every user you can see:**
 
 * ID
 * Username 
 * Email
-* First/Last name
+* Full name
+* User group (user/admin)
+* Source (LDAP, internal) (the LDAP integration must be turned on)
+* Registration/last activity date
 * Status (active, inactive)
-* Source (LDAP, internal) integration ldap must be turned on
-* Registration date.
 
 Go to the **User settings** ![User Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) and press **“Performance”**. You will be redirected to a personal dashboard displaying the performance of a chosen user.
 
@@ -66,15 +67,14 @@ To send an invitation to a user, perform the following steps:
 
 Invitations will be sent to the specified emails. Users need to accept the invitation, after that you will see the **ACCEPTED** status in front of the user name. Otherwise, the **PENDING** status will be displayed.
 
-![Send Invitation](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_invitation.gif?raw=true)
+![Send Invitation](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_invitations.gif?raw=true)
 
 ### Manage invitations
-Invitation status **ACCEPTED**: If you click ![Invitation Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true) and select **“Profile”**, you will be redirected to the **Users** page.
+After sending an invitation, there are two ways to manage them.
 
-Invitation status **PENDING**: By clicking ![Invitation Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true), you can:
+By clicking ![Invitation Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true), you can:
 
-* Copy the link and share it with the user
-* Resend the invitation
+* Resend the invitation -  the invitation will be sent once again
 * Revoke the invitation - the invited user will not be able to use this link anymore.
 
-![Manage Invitations](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/manage_invitations.gif?raw=true)
+![Manage Invitations](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/managing_invitations.gif?raw=true)
