@@ -56,7 +56,7 @@ To create a test launcher manually, perform the following steps:
 
 The new launcher template will be added with a tag **“Manual creation”** ![Manual Creation](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_manual_creation.png?raw=true)
 
-![Create Launcher Manually](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_launcher_manually.gif?raw=true)
+![Create Launcher Manually](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/create_a_launcher_manually.gif?raw=true)
 
 ### Launch test run
 To launch a test run, perform the following steps:
@@ -73,7 +73,7 @@ To launch a test run, perform the following steps:
 The test run will be displayed in the state of compilation.
 After it switches to **“In-progress”** (marked blue), you can track the automation results in real time.
 
-![Launch Test Run](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/launch_test_run.gif?raw=true)
+![Launch Test Run](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/launch_a_test_run.gif?raw=true)
 
 ### Abort test run
 To abort a test run **“In-progress”** (marked blue), perform the following steps:
@@ -96,7 +96,7 @@ To remove a launcher, perform the following steps:
 
 The launcher will be removed from the list.
 
-![Remove Launcher](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/remove_launcher.gif?raw=true)
+![Remove Launcher](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/remove_a_launcher.gif?raw=true)
 
 ## Test run results
 On the **Test runs** page, you can see all the test runs that have been executed recently. Moreover, view test run details, logs and video recordings, share test results with your colleagues.
@@ -121,7 +121,8 @@ At the top of the **Test runs** page, you can filter results by different criter
 4. Environment.
 5. Platform name.
 6. Browser name.
-7. Start date.
+7. Locale.
+8. Start date.
 
 ![Filter Test Runs](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/filter_test_runs.png?raw=true)
 
@@ -153,29 +154,38 @@ Passed tests are marked green, and failed ones are red.
 * Execution time
 * Test owner
 * Tags
-* Reference to a Jira ticket
+* Reference to a Jira ticket (if there is one)
 
 Stack trace is provided for failed tests.
 
 ![View Test Run Results](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_results_page.png?raw=true)
 
 #### Filter/group tests
-You can filter test results by statuses (passed, failed, skipped, aborted, in_progress) by clicking on coloured dots in the upper-right area of the page.
+You can filter test results by:
 
-Or group tests by different criteria in the upper-left area of the page:
+* Name;
+* Status (passed, failed, skipped, aborted, in progress).
 
-* Class name
-* Package name
-* Tags
+Tests can be grouped by:
 
-View all tests by returning to the **“Plain”** category.
+* Class name;
+* Package name;
+* Tags.
 
-![Filter and Group Test Results](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/filter_group_test_results.gif?raw=true)
+And sorted by:
+
+* Test name;
+* Duration (long - short);
+* Duration (short - long).
+
+Press **“Reset”** in the upper-right corner to return to the default test run results view.
+
+![Filter and Group Test Results](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/filter_or_group_test_results.gif?raw=true)
 
 #### Mark test as passed/failed
 To mark a test as passed/failed, on the **Test results** page, click **Test settings** ![Test Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot_red.png?raw=true) and press **“Mark test as passed/failed”.**
 
-![Mark Test as Passed or Failed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/mark_test_as_passed_or_failed.gif?raw=true)
+![Mark Test as Passed or Failed](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/mark_test_as_passed_failed.gif?raw=true)
 
 #### Link known issue to test
 This option is only available for failed tests.
@@ -186,7 +196,7 @@ The red label will appear, the same one will be displayed in test statistics.
 
 After you link a known issue from Jira to a failed test, next time you get the same stack trace, the test run will be automatically identified and displayed with the same label.
 
-![Link Known Issue to Test](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/link_known_issue.gif?raw=true)
+![Link Known Issue to Test](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/link_a_known_issue.gif?raw=true)
 
 #### Analyze test flow
 To analyze the test flow and see additional information about test results, click on any test on the **Test results** page.
