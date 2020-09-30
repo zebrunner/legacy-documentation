@@ -201,13 +201,21 @@ After you link a known issue from Jira to a failed test, next time you get the s
 #### Analyze test flow
 To analyze the test flow and see additional information about test results, click on any test on the **Test results** page.
 
-In the test logs area, all the test steps are tracked.
+There are several areas displayed to cover the most important aspects of your tests.
+
+In the upper area, view your test history with the execution date (how long ago the test was run) and its status (passed, failed, aborted, skipped). By clicking on any item in the test history, you will be directed to the chosen test info to analyze your test progress.
+
+In the test logs area below, all the test steps are tracked. View the visuals, start date and time, and action taken, filter test steps by status (fatal, error, warn, info, debug, trace, or all).
+
+Visuals, or screenshots (if available) can be maximized by clicking on them.
+
+![Test History and Screenshots](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_history_and_screenshots.gif?raw=true)
 
 Turn on the video to view the test flow with comments of what is going on right now in the text script. You can maximize the video to get a better view.
 
-Under the video player, get the idea of test platform/browser, actual test status, its date and duration.
+Under the video player, learn info about the test platform/browser, actual test status, its date and duration.
 
-![Analize Test Flow](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/view_test_flow.gif?raw=true)
+![Video in Test Results](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/video_in_test_results.gif?raw=true)
 
 ### Share test run results
 
