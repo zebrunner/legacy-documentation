@@ -209,13 +209,13 @@ In the test logs area below, all the test steps are tracked. View the visuals, s
 
 Visuals, or screenshots (if available) can be maximized by clicking on them.
 
-![Test History and Screenshots](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_history_and_screenshots.gif?raw=true)
+![Test History and Screenshots](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_history_%20screenshots.gif?raw=true)
 
 Turn on the video to view the test flow with comments of what is going on right now in the text script. You can maximize the video to get a better view.
 
 Under the video player, learn info about the test platform/browser, actual test status, its date and duration.
 
-![Video in Test Results](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/video_in_test_results.gif?raw=true)
+![Video in Test Results](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/video_on_test_results_page.gif?raw=true)
 
 ### Share test run results
 
