@@ -1,4 +1,4 @@
-# Integrations[Draft].
+# Integrations
 
 ### CI / Automation Server:
 Jenkins is used as default CI server for running Maven and Gradle jobs.
