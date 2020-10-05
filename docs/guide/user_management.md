@@ -65,7 +65,7 @@ To send an invitation to a user, perform the following steps:
 4. Enter the email(s). You can enter an unlimited number of emails at a time.
 5. Press **“Invite”.**
 
-Invitations will be sent to the specified emails. Users need to accept the invitation, after that you will see the **ACCEPTED** status in front of the user name. Otherwise, the **PENDING** status will be displayed.
+Invitations will be sent to the specified emails. Invited users need to accept the invitation, after that the invitations disappear from the **Invitations** page.
 
 ![Send Invitation](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/send_invitations.gif?raw=true)
 
@@ -74,7 +74,7 @@ After sending an invitation, there are two ways to manage them.
 
 By clicking ![Invitation Settings](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_three_dot.png?raw=true), you can:
 
-* Resend the invitation -  the invitation will be sent once again
+* Resend the invitation - the invitation will be sent once again
 * Revoke the invitation - the invited user will not be able to use this link anymore.
 
 ![Manage Invitations](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/managing_invitations.gif?raw=true)
