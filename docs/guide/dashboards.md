@@ -68,7 +68,7 @@ Hidden dashboards are useful when:
 
 **Note:** You need the **“View hidden dashboards”** permission to make a dashboard hidden. Otherwise, you will not see this option.
 
-To make a dashboard hidden, open **“New dashboard”** or **“Edit dashboard”** popup and click the  on the ![Hidden Dashboard Icon](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/hidden_dashboard_icon.png?raw=true) icon.
+To make a dashboard hidden, open **“New dashboard”** or **“Edit dashboard”** popup and click the icon ![Hidden Dashboard Icon](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/hidden_dashboard_icon.png?raw=true).
 
 ![Hidden Dashboards](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/hidden_dashboard.gif?raw=true)
 
