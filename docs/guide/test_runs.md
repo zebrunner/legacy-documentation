@@ -98,6 +98,13 @@ The launcher will be removed from the list.
 
 ![Remove Launcher](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/remove_a_launcher.gif?raw=true)
 
+### Add favourite launcher
+You can mark a launcher as favourite. It will be displayed at the top of the list of launchers.
+
+For this, choose the necessary launcher and click the star icon ![Star Icon](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_star.png?raw=true) at the top of the wizard. The launcher will be placed at the top of the list of launchers with a star icon.
+
+![Favourite Launcher](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/remove_a_launcher.gif?raw=true)
+
 ## Test run results
 On the **Test runs** page, you can see all the test runs that have been executed recently. Moreover, view test run details, logs and video recordings, share test results with your colleagues.
 
