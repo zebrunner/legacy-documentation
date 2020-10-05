@@ -64,9 +64,9 @@ To launch a test run, perform the following steps:
 1. On the **Test runs** page, click the **“Test launcher”** button.
 2. The **Launcher wizard** will be opened.
 3. Choose the necessary test launcher from the list.
-4. Select the test automation server (you will see this option the first time you open a recently created repository).
+4. the test environment server.
 5. Select the type of a test run, browser name and its version. 
-6. The section below is dedicated to parameterization of your automation code. Select a branch, environment, thread count, emails and other parameters.
+6. In the section below, parameterize your automation code. Select a branch, environment, thread count, emails, and other parameters.
 7. Add additional parameters by clicking the **“Edit”** button ![Launch Test Run](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/icon_gear_grey.png?raw=true) at the top of the wizard.
 8. Press **“Launch”.**
 
