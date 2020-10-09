@@ -14,6 +14,6 @@ jobs:
           aws_key_id: ${{ secrets.DOCS_AWS_KEY }}
           aws_secret_access_key: ${{ secrets.DOCS_AWS_SECRET }}
           aws_bucket: 'zebrunner-stage '
-          source_dir: './README.md'
+          source_dir: 'README.md'
           destination_dir: '_common/docs/agents'
 
