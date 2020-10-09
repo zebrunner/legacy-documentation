@@ -1,0 +1,19 @@
+name: docs
+
+on:
+  push:
+    branches:
+      - master
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: shallwefootball/s3-upload-action@master
+        with:
+          aws_key_id: ${{ secrets.DOCS_AWS_KEY }}
+          aws_secret_access_key: ${{ secrets.DOCS_AWS_SECRET }}
+          aws_bucket: 'zebrunner-stage '
+          source_dir: './README.md'
+          destination_dir: '_common/docs/agents'
+
