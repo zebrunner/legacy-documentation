@@ -4,16 +4,17 @@ on:
   push:
     branches:
       - master
+    
 jobs:
-  upload:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: shallwefootball/s3-upload-action@master
-        with:
-          aws_key_id: ${{ secrets.DOCS_AWS_KEY }}
-          aws_secret_access_key: ${{ secrets.DOCS_AWS_SECRET }}
-          aws_bucket: 'zebrunner-stage '
-          source_dir: 'README.md'
-          destination_dir: '_common/docs/agents'
-
+      - uses: qoqa/action-s3-cp@v1.1
+        env:
+          AWS_S3_BUCKET: 'zebrunner-stage'
+          AWS_ACCESS_KEY_ID: ${{ secrets.DOCS_AWS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DOCS_AWS_SECRET }}
+          AWS_REGION: 'eu-west-1'
+          AWS_S3_PATH: '/_common/docs/agents/README.md'
+          FILE: 'README.md'
