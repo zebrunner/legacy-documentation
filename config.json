@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Java",
+        "iconPath": "logo-java.png",
+        "agents": [
+            {
+                "name": "TestNG",
+                "mdFilePath": "testng/README.md"
+            },
+            {
+                "name": "JUnit",
+                "mdFilePath": "junit/README.md"
+            },
+            {
+                "name": "JUnit5",
+                "mdFilePath": "junit5/README.md"
+            }
+        ]
+    },
+    {
+        "name": "JavaScript",
+        "iconPath": "logo-js.png",
+        "agents": []
+    },
+    {
+        "name": "Python",
+        "iconPath": "logo-python.png",
+        "agents": []
+    },
+    {
+        "name": "Ruby",
+        "iconPath": "logo-ruby.png",
+        "agents": []
+    },
+    {
+        "name": "C#",
+        "iconPath": "logo-csharp.png",
+        "agents": []
+    },
+    {
+        "name": "PHP",
+        "iconPath": "logo-php.png",
+        "agents": []
+    }
+]
