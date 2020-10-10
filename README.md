@@ -33,4 +33,4 @@ Your data and users will be safe with our enterprise-grade security and centrali
 
 * **Link known issues to your tests in Jira** - Zebrunner automatically attaches a ticket to a failed test with the same stack trace, which dramatically reduces the time for test analyses and investigation.
 
-* **See detailed test analyses and team performance on configurable dashboards** - use a basic set of widgets or create your own ones by choosing from multiple parameters, share test results via email or export them to HTML, and manage your automation team in one click.
+* **See detailed test analyses and team performance on configurable dashboards** - use a basic set of widgets or create your own ones by choosing from multiple parameters, share test results via email or export them to HTML, and manage your automation team in one click...
