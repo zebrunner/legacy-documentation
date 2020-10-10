@@ -3,7 +3,7 @@ name: docs
 on:
   push:
     branches:
-      - master
+      - develop
     
 jobs:
   deploy:
@@ -15,6 +15,6 @@ jobs:
           AWS_S3_BUCKET: 'zebrunner-stage'
           AWS_ACCESS_KEY_ID: ${{ secrets.DOCS_AWS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.DOCS_AWS_SECRET }}
-          AWS_REGION: 'eu-west-1'
-          AWS_S3_PATH: '/_common/docs/agents/README.md'
-          FILE: 'README.md'
+          AWS_REGION: ${{ secrets.DOCS_AWS_REGION }}
+          AWS_S3_PATH: '/_common/docs/agents/config.json'
+          FILE: 'config.json'
