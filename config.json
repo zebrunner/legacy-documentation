@@ -8,11 +8,11 @@
                 "mdFilePath": "testng/README.md"
             },
             {
-                "name": "JUnit",
+                "name": "JUnit 4",
                 "mdFilePath": "junit/README.md"
             },
             {
-                "name": "JUnit5",
+                "name": "JUnit 5",
                 "mdFilePath": "junit5/README.md"
             }
         ]
