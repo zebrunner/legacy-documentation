@@ -9,7 +9,7 @@
             },
             {
                 "name": "JUnit 4",
-                "mdFilePath": "junit/README.md"
+                "mdFilePath": "junit4/README.md"
             },
             {
                 "name": "JUnit 5",
