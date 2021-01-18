@@ -218,7 +218,7 @@ Visuals, or screenshots (if available) can be maximized by clicking on them.
 
 ![Test History and Screenshots](https://github.com/zebrunner/documentation/blob/master/docs/assets/images/test_history_%20screenshots.gif?raw=true)
 
-Turn on the video to view the test flow with comments of what is going on right now in the text script. You can maximize the video to get a better view.
+Turn on the video to view the test flow with comments of what is going on right now in the test script. You can maximize the video to get a better view.
 
 Under the video player, learn info about the test platform/browser, actual test status, its date and duration.
 
